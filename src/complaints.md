@@ -1,108 +1,145 @@
 ---
 layout: page.njk
 title: "Complaints"
-description: "How to raise a concern or make a complaint at Emmanuel Christian School, Leicester."
+description: "How to raise a concern or make a complaint at Emmanuel Christian School, Leicester, and what happens at each stage."
 permalink: /complaints/
-crumb: "<a href='/'>Home</a>  ›  Parents  ›  Complaints"
+crumb: "<a href='/'>Home</a> &nbsp;&rsaquo;&nbsp; <a href='/parents/'>Parents</a> &nbsp;&rsaquo;&nbsp; Complaints"
 heading: "If something is wrong, tell us"
-standfirst: "Three stages, clear timescales, and a written record. Raising a concern will never count against your child."
-draft: "Timescales must match the wording of the complaints policy exactly, and the number of complaints for the preceding year must be entered each September."
+standfirst: "Three stages, clear timescales, and a written record at every one. Raising a concern will never count against your child."
+draft: "Check the EYFS paragraph before publishing — see the note in that section. The policy is also past its June 2026 review date."
 contents:
   - id: first
     text: "Start by talking to us"
   - id: stage1
-    text: "Stage one"
+    text: "Stage one — informal"
   - id: stage2
-    text: "Stage two"
+    text: "Stage two — formal"
   - id: stage3
-    text: "Stage three"
+    text: "Stage three — panel"
   - id: numbers
     text: "Complaints received"
   - id: eyfs
     text: "Early years"
+  - id: records
+    text: "Confidentiality and records"
   - id: safeguarding
     text: "Safeguarding concerns"
   - id: documents
     text: "Policies"
 nextprev: |
   <div class="nextprev">
-  <a class="np" href="/"><span>Back</span><b>← Home</b></a>
-  <a class="np" href="/curriculum/"><span>Related</span><b>Curriculum overview →</b></a>
+  <a class="np" href="/parents/"><span>Back</span><b>← Parents</b></a>
+  <a class="np" href="/policies/"><span>Next</span><b>Policies →</b></a>
   </div>
-eleventyNavigation:
-  key: complaints
 ---
 
 ## Start by talking to us {#first}
 
-<p class="lead">Most things that go wrong in a school are put right by a conversation with the person closest to it. If you are unhappy about something, the quickest route is almost always your child’s class teacher or form tutor.</p>
+<p class="lead">Most things that go wrong in a school are put right by a conversation with the person closest to it. If you are unhappy about something, the quickest route is almost always your child’s class teacher.</p>
 
-Raising a concern will not count against your child. We would far rather hear about a problem while it is small.
+We would far rather hear about a problem while it is small. Constructive criticism is welcome, and it usually stops a query building into a frustration and then into a complaint. Raising a concern will not count against your child.
+
+Complaints are handled in a spirit of forgiveness and reconciliation. That is not a way of avoiding the issue — it is how we intend to deal with the issue.
+
+<div class="note">
+<p style="margin:0"><b>One thing to note about timescales.</b> Throughout this procedure, a <em>working day</em> means a day when the school is in session. Days during the holidays do not count.</p>
+</div>
 
 ## Stage one — informal {#stage1}
 
-Speak or write to the class teacher, form tutor or the member of staff involved. Most concerns are resolved at this point.
+**Heard by:** your child’s Form Teacher, or the Head of Lower, Middle or Upper School
+**Response:** usually within 10 working days
 
-If the matter is not resolved, or if it is serious enough that you would rather not start there, contact the Head Teacher directly.
+Most concerns are resolved here, and they can be raised in person, by email or by letter.
 
-<span class="todo">Confirm the response timescale stated in the complaints policy</span>
+- Contact your child’s Form Teacher first. In many cases the matter is settled straight away.
+- If the Form Teacher cannot resolve it alone, they will consult the relevant Head of School.
+- A complaint made directly to a Head of School is normally referred back to the Form Teacher, unless it would be inappropriate for them to handle it.
+- The Head Teacher will be told about the complaint and any action taken, whatever the outcome.
+- If it cannot be resolved, you will be advised to move to stage two.
 
-## Stage two — formal {#stage2}
+If your complaint concerns imminent danger, health and safety, or child protection, go straight to the Head Teacher rather than starting here.
 
-A formal complaint should be made in writing to the Head Teacher, setting out what has happened and what you would like to see done about it.
+If the timescale cannot be met — during a holiday, or for reasons outside the school’s control — we will stay in contact and give you a new, reasonable timeframe rather than leaving you waiting.
 
-- Your complaint will be acknowledged in writing.
-- The Head Teacher will investigate and may meet you to discuss it.
-- You will receive a written outcome, with reasons.
-- If the complaint concerns the Head Teacher, it should be addressed to the Chair of Trustees instead.
+## Stage two — formal, in writing {#stage2}
 
-<span class="todo">Insert the timescales for acknowledgement and outcome exactly as written in the policy</span>
+**Heard by:** the Head Teacher
+**Request:** in writing, within 10 working days of stage one finishing
+**Response:** usually within 5 working days
 
-## Stage three — panel hearing {#stage3}
+- Put your complaint in writing to the Head Teacher, who will decide the appropriate course of action.
+- **If your complaint is about the Head Teacher**, write to the Chair of Trustees instead. He may delegate consideration of it to a nominee.
+- You will usually be spoken to within 5 working days of stage two beginning, to discuss the matter directly.
+- If further investigation is needed, you will be given a reasonable timeframe for it.
+- Written, dated records are kept of every meeting and interview.
+- Once the relevant facts have been established as far as is practicable, you will be given the conclusion in writing, **with reasons**.
 
-If you are not satisfied with the outcome at stage two, you may ask for the complaint to be heard by a panel.
+## Stage three — complaints panel {#stage3}
 
-- The panel consists of at least three people who have not been directly involved in the matter.
-- One panel member is independent of the management and running of the school.
-- You may attend and be accompanied if you wish.
-- Findings and recommendations are given in writing to you, to the Head Teacher, to the trustees, and to the person complained about where relevant.
-- A written record is kept of all complaints, of the stage reached, and of the action taken.
+**Heard by:** the Complaints Appeal Panel
+**Request:** in writing to the Chair of Trustees, within 10 working days of stage two finishing
+**Hearing:** usually within 20 working days of that request
+**Conclusion:** normally within 20 working days of the hearing
+
+- The Chair of Trustees convenes the panel and appoints its members.
+- The panel is at least three people, none of whom has been directly involved in the complaint or in stages one and two, **including one member independent of the day-to-day management and running of the school**.
+- You may choose whether to attend. You may bring one other person — a relative, a teacher or a friend. You may not bring a legal representative to make legal representations on your behalf.
+- If the panel asks for further particulars in advance, copies go to everybody involved at least 2 working days before the hearing.
+- The panel will resolve the matter at the hearing if it can. If further investigation is needed, it will tell you how and by when.
+- The findings and any recommendations are sent in writing to you, to the Head Teacher, to the trustees, to the proprietor, and where relevant to the person complained about.
+
+The panel’s conclusion is final.
+
+Where a complaint involves a member of the teaching staff, that teacher is kept fully informed in writing, given copies of all documentation, and has the right to make representation to the panel.
 
 ## Complaints received {#numbers}
 
-We publish the number of complaints registered under the formal procedure in the preceding school year, as required.
+We publish the number of complaints registered under the formal procedure each year, as required.
 
 <table>
-<caption>Formal complaints</caption>
-<thead><tr><th style="width:60%">School year</th><th>Complaints registered</th></tr></thead>
-<tbody>
-<tr><td>2025/26</td><td class="num"><span class="todo">enter each September</span></td></tr>
-<tr><td>2024/25</td><td class="num"><span class="todo">enter</span></td></tr>
-</tbody>
+  <caption>Formal complaints</caption>
+  <thead><tr><th style="width:60%">School year</th><th>Complaints registered</th></tr></thead>
+  <tbody>
+    <tr><td class="num">2025/26</td><td>None</td></tr>
+    <tr><td class="num">2024/25</td><td>None <span class="todo">confirm</span></td></tr>
+  </tbody>
 </table>
+
+These figures are also available on request.
 
 ## Early years {#eyfs}
 
-Parents of children in the early years may also raise concerns with the Independent Schools Inspectorate, and may ask to see the written record of complaints relating to the early years provision.
+Additional requirements apply to our early years provision beyond those that apply to the rest of the school.
 
-<span class="todo">Confirm ISI contact details and the school’s early years complaint route</span>
+Written complaints about the fulfilment of the Early Years Foundation Stage requirements are investigated, and the complainant is notified of the outcome within 28 days.
 
-## If your concern is about a child’s safety {#safeguarding}
+Parents may also contact the Ofsted Complaints and Enforcement Team on 0300 123 4666 or at [enquiries@ofsted.gov.uk](mailto:enquiries@ofsted.gov.uk). Our record of complaints is made available to the Independent Schools Inspectorate on request.
 
-Concerns about the safety or welfare of any child should not go through this procedure. Contact the Designated Safeguarding Lead, Andy Harris, straight away. If you believe a child is at immediate risk, telephone the police on 999.
+<span class="todo">Check this paragraph — see the note about Ofsted and ISI before publishing</span>
+
+## Confidentiality and records {#records}
+
+All concerns and complaints are treated seriously and confidentially. Correspondence, statements and records about individual complaints are kept confidential, except where disclosure is required by the Regulations or during a school inspection under section 109 of the Education and Skills Act 2008.
+
+Records of formal complaints and the action taken are kept in line with our privacy notice, in most cases for at least six years after the pupil leaves the school. They are reviewed by the Head Teacher and senior leadership team so that the school learns from them.
+
+## Safeguarding concerns {#safeguarding}
+
+Concerns about the safety or welfare of any child should not go through this procedure. Contact the Designated Safeguarding Lead straight away. If you believe a child is at immediate risk, telephone the police on 999.
 
 <div class="note">
-<p><b>Safeguarding contacts</b></p>
-<p>Designated Safeguarding Lead: Andy Harris, Head Teacher · 0116 222 0792</p>
-<p>Deputy Designated Safeguarding Lead: Sarah Seeds</p>
-<p>Safeguarding Governor: Caroline Vickers</p>
+<p><b>Safeguarding and governance contacts</b></p>
+<p>Designated Safeguarding Lead: Mr Andy Harris, Head Teacher &middot; 0116 222 0792</p>
+<p>Safeguarding Governor: Mrs Caroline Vickers</p>
+<p style="margin-bottom:0">Chair of Trustees: Mr Julian Mercik, care of the school address</p>
 </div>
+
+The Safeguarding Governor reports on the school’s effectiveness and compliance with child protection matters as a standing item at formal governors’ meetings.
 
 ## Policies and documents {#documents}
 
 <div class="docs">
-<a class="doc" href="#"><div><b>Complaints policy and procedure</b><span>PDF · reviewed <span class="todo">date</span></span></div></a>
-<a class="doc" href="#"><div><b>Safeguarding and child protection policy</b><span>PDF · <span class="todo">date</span></span></div></a>
+<a class="doc" href="/assets/policies/parent-complaint-procedure.pdf"><div><b>Parent complaint procedure</b><span>PDF &middot; reviewed June 2024</span></div></a>
+<a class="doc" href="/policies/"><div><b>All school policies</b><span>Everything we publish</span></div></a>
 </div>
-
-<hr class="rule"/>
