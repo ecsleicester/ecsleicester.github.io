@@ -1,0 +1,7 @@
+[
+  { "text": "About",      "url": "/about/" },
+  { "text": "Curriculum", "url": "/curriculum/" },
+  { "text": "Parents",    "url": "/parents/" },
+  { "text": "Admissions", "url": "/admissions/" },
+  { "text": "Contact",    "url": "/contact/" }
+]

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ title }}{% if permalink != "/" %} | {{ site.name }}, {{ site.place }}{% endif %}</title>
+<meta name="description" content="{{ description }}">
+<script>document.documentElement.className+=" js";</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wdth,wght@12..96,75..100,400;12..96,75..100,600;12..96,75..100,800&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,500;0,7..72,600;1,7..72,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/css/{{ stylesheet or 'site.css' }}">
+<link rel="icon" href="/assets/img/shield.png">
+</head>
+<body>
+
+{% if site.showDraftBanner and draft %}
+<div class="draft"><div class="wrap"><b>Working draft</b><span>{{ draft }}</span></div></div>
+{% endif %}
+
+<header class="nav"><div class="wrap nav-in">
+  <a class="brand" href="/"><img src="/assets/img/shield.png" alt="">
+    <span class="brand-txt">{{ site.name }}<em>{{ site.place }}</em></span></a>
+  <nav class="links" id="links">
+    {%- for item in nav %}
+    <a href="{{ item.url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.text }}</a>
+    {%- endfor %}
+  </nav>
+  <a class="btn btn-navy nav-cta" href="/admissions/">Book a visit</a>
+  <button class="menu-btn" id="menuBtn" aria-expanded="false" aria-controls="links">Menu</button>
+</div></header>
+
+{{ content | safe }}
+
+{% include "footer.njk" %}
+
+<script>
+  var mb=document.getElementById('menuBtn');
+  if(mb){mb.addEventListener('click',function(){
+    var l=document.getElementById('links');
+    var o=l.classList.toggle('open');
+    mb.setAttribute('aria-expanded',o?'true':'false');
+  });}
+  Array.prototype.forEach.call(document.querySelectorAll('#links a'),function(a){
+    a.addEventListener('click',function(){document.getElementById('links').classList.remove('open');});
+  });
+  var sb=document.getElementById('subBtn');
+  if(sb){sb.addEventListener('click',function(){
+    var v=document.getElementById('em').value.trim(), m=document.getElementById('subMsg');
+    if(!v||v.indexOf('@')<1){m.textContent='Enter an email address so we know where to send it.';return;}
+    m.textContent='Thank you. The next letter goes out at the end of term.';
+  });}
+  if(!('IntersectionObserver' in window)){
+    Array.prototype.forEach.call(document.querySelectorAll('.rv'),function(el){el.classList.add('in');});
+    var r0=document.getElementById('rail'); if(r0){r0.classList.add('on');}
+  } else {
+    var io=new IntersectionObserver(function(e){e.forEach(function(x){
+      if(x.isIntersecting){x.target.classList.add('in');io.unobserve(x.target);}});},
+      {threshold:0.14,rootMargin:'0px 0px -40px 0px'});
+    Array.prototype.forEach.call(document.querySelectorAll('.rv'),function(el,i){
+      el.style.transitionDelay=(Math.min(i%4,3)*70)+'ms'; io.observe(el);});
+    var rail=document.getElementById('rail');
+    if(rail){var rio=new IntersectionObserver(function(e){e.forEach(function(x){
+      if(x.isIntersecting){x.target.classList.add('on');rio.unobserve(x.target);}});},{threshold:0.25});
+      rio.observe(rail);}
+  }
+</script>
+</body></html>

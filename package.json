@@ -1,0 +1,14 @@
+{
+  "name": "ecs-website",
+  "version": "1.0.0",
+  "description": "Emmanuel Christian School, Leicester",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "markdown-it-attrs": "^4.3.1"
+  },
+  "type": "module"
+}

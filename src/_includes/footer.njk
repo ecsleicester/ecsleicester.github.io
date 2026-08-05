@@ -1,0 +1,24 @@
+<footer id="footer">
+  <div class="wrap">
+    <div class="f-top">
+      <div class="f-brand">
+        <img src="/assets/img/shield.png" alt="{{ site.name }} badge">
+        <p>{{ site.addressLine2 }}</p>
+        <p>{{ site.addressLine3 }}</p>
+        <p style="margin-top:12px"><a href="tel:{{ site.phoneLink }}">{{ site.phone }}</a></p>
+        <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+      </div>
+      {%- for col in footer %}
+      <div><h5>{{ col.heading }}</h5><ul>
+        {%- for l in col.links %}
+        <li><a href="{{ l.url }}">{{ l.text }}</a></li>
+        {%- endfor %}
+      </ul></div>
+      {%- endfor %}
+    </div>
+    <div class="f-bottom">
+      <span>{{ site.name }} is part of the {{ site.trust }}. Charity {{ site.charity }} &middot; Company {{ site.company }}</span>
+      <span>Member of ISA and ACSI</span>
+    </div>
+  </div>
+</footer>

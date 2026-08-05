@@ -1,0 +1,23 @@
+---
+layout: base.njk
+---
+<div class="phead">
+  <img class="sh" src="/assets/img/shield.png" alt="">
+  <div class="wrap phead-in">
+    <p class="crumb">{{ crumb | safe }}</p>
+    <h1>{{ heading }}</h1>
+    <p class="stand">{{ standfirst }}</p>
+  </div>
+</div>
+
+<div class="wrap cols">
+  <aside class="side"><h5>On this page</h5><ul>
+    {%- for c in contents %}
+    <li><a href="#{{ c.id }}">{{ c.text }}</a></li>
+    {%- endfor %}
+  </ul></aside>
+  <article>
+    {{ content | safe }}
+    {{ nextprev | safe }}
+  </article>
+</div>

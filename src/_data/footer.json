@@ -1,0 +1,28 @@
+[
+  { "heading": "About", "links": [
+    { "text": "Our vision and history", "url": "/about/" },
+    { "text": "Statement of faith",     "url": "/faith/" },
+    { "text": "Aims and values",        "url": "/values/" },
+    { "text": "Meet the team",          "url": "/team/" },
+    { "text": "Governance",             "url": "/governance/" },
+    { "text": "Inspection reports",     "url": "/inspection/" }
+  ]},
+  { "heading": "Curriculum", "links": [
+    { "text": "Curriculum overview",    "url": "/curriculum/" },
+    { "text": "Lower School",           "url": "/lower/" },
+    { "text": "Middle School",          "url": "/middle/" },
+    { "text": "Upper School and GCSE",  "url": "/upper/" },
+    { "text": "SEND and support",       "url": "/send/" },
+    { "text": "RSHE",                   "url": "/rshe/" },
+    { "text": "Examination results",    "url": "/results/" }
+  ]},
+  { "heading": "Parents", "links": [
+    { "text": "Parent Hub",             "url": "/parents/#hub" },
+    { "text": "Term dates",             "url": "/termdates/" },
+    { "text": "Uniform and PE kit",     "url": "/uniform/" },
+    { "text": "Illness and absence",    "url": "/absence/" },
+    { "text": "Policies",               "url": "/policies/" },
+    { "text": "Complaints",             "url": "/complaints/" },
+    { "text": "Vacancies",              "url": "/support/#vacancies" }
+  ]}
+]
