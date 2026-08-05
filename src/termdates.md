@@ -103,7 +103,7 @@ If you have a situation you think is exceptional, submit a leave request through
 One page, on school letterhead, for the fridge or the family calendar.
 
 <div class="docs">
-  <a class="doc" href="/assets/ECS_Term_Dates_2026-2027.pdf"><div><b>Term dates 2026/27</b><span>PDF &middot; one page, printable</span></div></a>
+  <a class="doc" href="/assets/term-dates-2026-27.pdf"><div><b>Term dates 2026/27</b><span>PDF &middot; one page, printable</span></div></a>
 </div>
 
 ## 2027/28 {#next}
