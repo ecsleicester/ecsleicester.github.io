@@ -17,6 +17,8 @@ contents:
     text: "Staff training days"
   - id: holidays
     text: "Term time holidays"
+  - id: download
+    text: "Download and print"
   - id: next
     text: "2027/28"
 nextprev: |
@@ -96,11 +98,14 @@ If you have a situation you think is exceptional, submit a leave request through
 
 [More about the Parent Hub](/parents/#hub)
 
+## Download and print {#download}
+
+One page, on school letterhead, for the fridge or the family calendar.
+
+<div class="docs">
+  <a class="doc" href="/assets/ECS_Term_Dates_2026-2027.pdf"><div><b>Term dates 2026/27</b><span>PDF &middot; one page, printable</span></div></a>
+</div>
+
 ## 2027/28 {#next}
 
 Dates for the following year are published here as soon as the trustees have agreed them. If you are planning further ahead than that and need to know something, ring the school and ask.
-
-<div class="note">
-  <p><b>Download</b></p>
-  <p><span class="todo">Add a one page PDF of these dates for parents who want to print them or put them on the fridge</span></p>
-</div>
