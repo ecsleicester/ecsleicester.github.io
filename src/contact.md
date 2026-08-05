@@ -23,8 +23,6 @@ nextprev: |
   <a class="np" href="/admissions/"><span>Related</span><b>Book a visit →</b></a>
   <a class="np" href="/"><span>Home</span><b>Emmanuel Christian School →</b></a>
   </div>
-eleventyNavigation:
-  key: contact
 ---
 
 ## How to reach us {#details}
@@ -61,11 +59,15 @@ eleventyNavigation:
 
 ## Send us a message {#enquiry}
 
-<div class="note">
-<p><b>Enquiry form</b></p>
-<p><span class="todo">Embed the Google Form here</span> — name, email, telephone, and what you are asking about.</p>
-<p style="margin-top:12px">If it is urgent, please telephone rather than email. Email is not monitored continuously.</p>
+If it is urgent, please telephone rather than use this form. Email is not monitored continuously.
+
+<div class="note" style="border-left-color:var(--gold)">
+<p style="margin:0"><b>If you are worried about the safety of a child</b>, do not use this form. Telephone the school and ask for Andy Harris, Designated Safeguarding Lead. If a child is at immediate risk, call the police on 999.</p>
 </div>
+
+<iframe title="Contact Emmanuel Christian School" src="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=__K-GWvL8ECe8DOiTCwba-i759mMJfRHpRx7PdIBQZJUREcyOTZHTkNNUzkyMFA5OFo3UzAyV1A5WC4u&amp;embed=true" height="760" style="width:100%;max-width:100%;border:0;background:#fff" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+If the form does not load, [open it in a new window](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=__K-GWvL8ECe8DOiTCwba-i759mMJfRHpRx7PdIBQZJUREcyOTZHTkNNUzkyMFA5OFo3UzAyV1A5WC4u).
 
 ## Finding us {#finding}
 

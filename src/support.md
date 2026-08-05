@@ -25,8 +25,6 @@ nextprev: |
   <a class="np" href="/news/"><span>Back</span><b>← News and events</b></a>
   <a class="np" href="/contact/"><span>Next</span><b>Contact us →</b></a>
   </div>
-eleventyNavigation:
-  key: support
 ---
 
 ## Pray {#pray}
@@ -37,11 +35,11 @@ Our termly prayer newsletter carries specific things to pray for — staff, pupi
 
 ## Prayer newsletter {#prayer}
 
-<div class="note">
-<p><b>Sign up</b></p>
-<p><span class="todo">Embed the Google Form here</span></p>
-<p style="margin-top:12px">We use your address for the newsletter and nothing else, and you can stop it at any time.</p>
-</div>
+We use your address for the newsletter and nothing else, and you can stop it at any time by replying to any letter.
+
+<iframe title="Prayer newsletter sign-up" src="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=__K-GWvL8ECe8DOiTCwba-i759mMJfRHpRx7PdIBQZJUOE1ISlEwV1BaMEpHTjJXWUtMOTFRUThORC4u&amp;embed=true" height="700" style="width:100%;max-width:100%;border:0;background:#fff" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+If the form does not load, [open it in a new window](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=__K-GWvL8ECe8DOiTCwba-i759mMJfRHpRx7PdIBQZJUOE1ISlEwV1BaMEpHTjJXWUtMOTFRUThORC4u).
 
 ## The building extension {#extension}
 

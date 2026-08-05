@@ -27,8 +27,6 @@ nextprev: |
   <a class="np" href="/fees/"><span>Next</span><b>Fees →</b></a>
   <a class="np" href="/faq/"><span>Also</span><b>Questions parents ask →</b></a>
   </div>
-eleventyNavigation:
-  key: admissions
 ---
 
 ## Who we admit {#who}
@@ -50,8 +48,9 @@ We would rather you came on an ordinary Tuesday than to a polished open evening.
 
 <div class="note">
 <p><b>Book a visit</b></p>
-<p><span class="todo">Embed the Google Form here</span> — name, child’s age, preferred dates, and anything you would like us to know.</p>
-<p style="margin-top:14px">Or ring the school on <a class="inline" href="tel:01162220792">0116 222 0792</a>.</p>
+<p>Tell us your child’s age, when you are hoping they would start, and which days usually suit you. We will be in touch to arrange a time.</p>
+<p style="margin-top:18px"><a class="btn btn-gold" href="https://forms.cloud.microsoft/e/HegFKg32Hc" target="_blank" rel="noopener">Book a visit →</a></p>
+<p style="margin-top:16px;margin-bottom:0">Or ring the school on <a class="inline" href="tel:01162220792">0116 222 0792</a>. If you would rather talk to somebody first, that is completely fine.</p>
 </div>
 
 ## How to apply {#process}
@@ -60,7 +59,7 @@ We would rather you came on an ordinary Tuesday than to a polished open evening.
 <caption>The process, start to finish</caption>
 <thead><tr><th style="width:12%"> </th><th style="width:32%">Step</th><th>What happens</th></tr></thead>
 <tbody>
-<tr><td class="num">1</td><td>Get in touch</td><td>Tell us your child’s age and when you are hoping they would start.</td></tr>
+<tr><td class="num">1</td><td>Get in touch</td><td>Fill in the visit form above, or ring the school. Tell us your child’s age and when you are hoping they would start.</td></tr>
 <tr><td class="num">2</td><td>Visit the school</td><td>An hour with the Head Teacher, during a normal working day.</td></tr>
 <tr><td class="num">3</td><td>Apply</td><td>We give you the application form after the visit. <span class="todo">confirm whether there is an application fee</span></td></tr>
 <tr><td class="num">4</td><td>Records and conversation</td><td>We ask your child’s current school or nursery for information, with your permission, so that we start from where they actually are.</td></tr>
