@@ -33,7 +33,7 @@ They had no building, no funding and no guarantee it would work. It took two mor
 
 The school has never moved. From the first day it has met in Braunstone Evangelical Free Church on Didsbury Street, and that partnership has lasted the whole of its life. Our pupils are taught in a building that belongs to a congregation at the weekend and to children during the week — which is a fair picture of how the school itself works.
 
-From a handful of pupils it has grown to seven classes and around seventy children, with capacity for seventy-five.
+From a handful of pupils it has grown to seven classes taking children from Reception through to Year 11, with capacity for seventy-five.
 
 <span class="todo">Add when the Leicestershire Christian Education Trust was formed, and anything else from the early years worth recording</span>
 
@@ -69,8 +69,8 @@ Children do not stay children. We are preparing people who will work, vote, rais
 
 ## The school today {#today}
 
-- Around seventy pupils aged four to sixteen, in seven mixed-age classes.
-- Capacity for seventy-five. We are small on purpose and intend to stay small.
+- Pupils aged four to sixteen, taught in seven mixed-age classes.
+- Capacity for seventy-five pupils. We are small on purpose and intend to stay small.
 - Thirteen members of staff, most of whom teach across several classes.
 - An independent school, inspected by the Independent Schools Inspectorate.
 - Part of the Leicestershire Christian Education Trust, a registered charity.

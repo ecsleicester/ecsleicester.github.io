@@ -47,7 +47,7 @@ We hold to the biblical account and teach it as true. Pupils are also taught the
 
 ### How big are the classes?
 
-Small. Around seventy pupils across seven classes. <span class="todo">give the typical class size</span>
+Small. Seven classes across the whole school, from Reception to Year 11. <span class="todo">give the typical class size</span>
 
 ### Why are classes mixed-age?
 
