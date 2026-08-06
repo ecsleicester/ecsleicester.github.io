@@ -23,8 +23,6 @@ nextprev: |
   <a class="np" href="/middle/"><span>Back</span><b>← Middle School</b></a>
   <a class="np" href="/results/"><span>Next</span><b>Examination results →</b></a>
   </div>
-eleventyNavigation:
-  key: upper
 ---
 
 ## GCSE courses {#gcse}

@@ -21,8 +21,6 @@ nextprev: |
   <a class="np" href="/about/"><span>Back</span><b>← About us</b></a>
   <a class="np" href="/results/"><span>Also</span><b>Examination results →</b></a>
   </div>
-eleventyNavigation:
-  key: inspection
 ---
 
 ## Our reports {#reports}

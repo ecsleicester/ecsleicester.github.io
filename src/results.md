@@ -23,8 +23,6 @@ nextprev: |
   <a class="np" href="/curriculum/"><span>Back</span><b>← Curriculum overview</b></a>
   <a class="np" href="/send/"><span>Related</span><b>SEND and support →</b></a>
   </div>
-eleventyNavigation:
-  key: results
 ---
 
 ## Summer 2026 — GCSE {#year}

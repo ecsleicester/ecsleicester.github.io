@@ -25,8 +25,6 @@ nextprev: |
   <a class="np" href="/parents/"><span>Back</span><b>← Parents</b></a>
   <a class="np" href="/complaints/"><span>Next</span><b>Complaints →</b></a>
   </div>
-eleventyNavigation:
-  key: policies
 ---
 
 ## Our policies {#about}

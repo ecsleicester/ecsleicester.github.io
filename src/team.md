@@ -25,11 +25,12 @@ nextprev: |
   <a class="np" href="/governance/"><span>Related</span><b>Governance →</b></a>
   <a class="np" href="/inspection/"><span>Also</span><b>Inspection reports →</b></a>
   </div>
-eleventyNavigation:
-  key: team
 ---
 
 ## Leadership {#lead}
+
+<img src="/assets/img/head-teacher.jpg" alt="Andy Harris, Head Teacher" style="width:100%;max-width:420px;float:right;margin:0 0 20px 26px;border:1px solid var(--line)">
+
 
 <table>
 <caption>Senior staff</caption>

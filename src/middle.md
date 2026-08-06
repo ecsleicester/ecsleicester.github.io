@@ -23,8 +23,6 @@ nextprev: |
   <a class="np" href="/lower/"><span>Back</span><b>← Lower School</b></a>
   <a class="np" href="/upper/"><span>Next</span><b>Upper School →</b></a>
   </div>
-eleventyNavigation:
-  key: middle
 ---
 
 ## One teacher becomes several {#shift}

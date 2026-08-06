@@ -23,8 +23,6 @@ nextprev: |
   <a class="np" href="/admissions/"><span>Back</span><b>← Admissions</b></a>
   <a class="np" href="/faq/"><span>Next</span><b>Questions parents ask →</b></a>
   </div>
-eleventyNavigation:
-  key: fees
 ---
 
 ## Fees for 2026/27 {#fees}

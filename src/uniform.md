@@ -25,8 +25,6 @@ nextprev: |
   <a class="np" href="/termdates/"><span>Back</span><b>← Term dates</b></a>
   <a class="np" href="/absence/"><span>Next</span><b>Illness and absence →</b></a>
   </div>
-eleventyNavigation:
-  key: uniform
 ---
 
 ## Why we have a uniform {#why}
@@ -34,6 +32,21 @@ eleventyNavigation:
 <p class="lead">Uniform settles the question of what to wear before it is asked, and it means nobody is judged in the playground on what their family can afford. We keep it simple and we keep it cheap.</p>
 
 ## Everyday uniform {#daily}
+
+<img src="/assets/img/uniform.png" alt="Illustration of pupils in the red, purple and navy school jumpers" style="width:100%;max-width:640px;margin:8px 0 24px">
+
+Jumper colour changes as a child moves through the school, so you can tell at a glance which phase a pupil is in.
+
+<table>
+  <caption>Jumper colour by phase</caption>
+  <thead><tr><th style="width:30%">Colour</th><th style="width:34%">Phase</th><th>Classes</th></tr></thead>
+  <tbody>
+    <tr><td class="num">Red</td><td>Lower School</td><td>Hazel, Oak, Willow</td></tr>
+    <tr><td class="num">Purple</td><td>Middle School</td><td>Cedar, Maple</td></tr>
+    <tr><td class="num">Navy</td><td>Upper School</td><td>Birch, Ash</td></tr>
+  </tbody>
+</table>
+
 
 <table>
 <caption>What your child needs</caption>

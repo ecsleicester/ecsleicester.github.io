@@ -21,8 +21,6 @@ nextprev: |
   <a class="np" href="/faith/"><span>Back</span><b>← What we believe</b></a>
   <a class="np" href="/governance/"><span>Next</span><b>Governance →</b></a>
   </div>
-eleventyNavigation:
-  key: values
 ---
 
 ## The CHRIST values {#christ}

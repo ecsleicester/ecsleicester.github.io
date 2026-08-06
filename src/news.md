@@ -19,8 +19,6 @@ nextprev: |
   <a class="np" href="/"><span>Back</span><b>← Home</b></a>
   <a class="np" href="/support/"><span>Next</span><b>Supporting the school →</b></a>
   </div>
-eleventyNavigation:
-  key: news
 ---
 
 ## Latest {#latest}

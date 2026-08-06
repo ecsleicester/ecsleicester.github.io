@@ -31,8 +31,6 @@ nextprev: |
   <a class="np" href="/send/"><span>Back</span><b>← SEND and support</b></a>
   <a class="np" href="/complaints/"><span>Next</span><b>Complaints →</b></a>
   </div>
-eleventyNavigation:
-  key: rshe
 ---
 
 ## Why we teach it {#why}

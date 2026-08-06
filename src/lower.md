@@ -25,8 +25,6 @@ nextprev: |
   <a class="np" href="/curriculum/"><span>Back</span><b>← Curriculum</b></a>
   <a class="np" href="/middle/"><span>Next</span><b>Middle School →</b></a>
   </div>
-eleventyNavigation:
-  key: lower
 ---
 
 ## The first years {#first}

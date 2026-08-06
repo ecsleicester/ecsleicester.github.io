@@ -29,8 +29,6 @@ nextprev: |
   <a class="np" href="/uniform/"><span>Back</span><b>← Uniform and PE kit</b></a>
   <a class="np" href="/policies/"><span>Next</span><b>Policies →</b></a>
   </div>
-eleventyNavigation:
-  key: absence
 ---
 
 ## Reporting an absence {#report}

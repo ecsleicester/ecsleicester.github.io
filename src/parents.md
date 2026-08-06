@@ -23,8 +23,6 @@ nextprev: |
   <a class="np" href="/termdates/"><span>Next</span><b>Term dates →</b></a>
   <a class="np" href="/policies/"><span>Also</span><b>Policies →</b></a>
   </div>
-eleventyNavigation:
-  key: parents
 ---
 
 ## Parent Hub {#hub}

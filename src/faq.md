@@ -23,8 +23,6 @@ nextprev: |
   <a class="np" href="/fees/"><span>Back</span><b>← Fees</b></a>
   <a class="np" href="/admissions/"><span>Next</span><b>Book a visit →</b></a>
   </div>
-eleventyNavigation:
-  key: faq
 ---
 
 ## About faith {#faith}

@@ -37,8 +37,6 @@ nextprev: |
   <a class="np" href="/results/"><span>Next</span><b>Examination results →</b></a>
   <a class="np" href="/admissions/"><span>Admissions</span><b>Come and visit →</b></a>
   </div>
-eleventyNavigation:
-  key: curriculum
 ---
 
 ## What we are trying to do {#aims}

@@ -23,8 +23,6 @@ nextprev: |
   <a class="np" href="/faith/"><span>Next</span><b>What we believe →</b></a>
   <a class="np" href="/values/"><span>Also</span><b>Our values →</b></a>
   </div>
-eleventyNavigation:
-  key: about
 ---
 
 ## How the school began {#start}
@@ -38,6 +36,8 @@ The school has never moved. From the first day it has met in Braunstone Evangeli
 From a handful of pupils it has grown to seven classes and around seventy children, with capacity for seventy-five.
 
 <span class="todo">Add when the Leicestershire Christian Education Trust was formed, and anything else from the early years worth recording</span>
+
+<img src="/assets/img/school-illustration.jpg" alt="Illustrated map of Emmanuel Christian School showing the classrooms, playground and church building" style="width:100%;margin:8px 0 10px">
 
 ## The building {#where}
 

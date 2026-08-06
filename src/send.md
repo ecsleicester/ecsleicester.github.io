@@ -33,8 +33,6 @@ nextprev: |
   <a class="np" href="/curriculum/"><span>Back</span><b>← Curriculum overview</b></a>
   <a class="np" href="/rshe/"><span>Next</span><b>Growing in Christ: RSHE →</b></a>
   </div>
-eleventyNavigation:
-  key: send
 ---
 
 ## Our approach {#approach}
