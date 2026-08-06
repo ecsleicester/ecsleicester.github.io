@@ -41,9 +41,9 @@ Jumper colour changes as a child moves through the school, so you can tell at a 
   <caption>Jumper colour by phase</caption>
   <thead><tr><th style="width:30%">Colour</th><th style="width:34%">Phase</th><th>Classes</th></tr></thead>
   <tbody>
-    <tr><td class="num">Red</td><td>Lower School</td><td>Hazel, Oak, Willow</td></tr>
-    <tr><td class="num">Purple</td><td>Middle School</td><td>Cedar, Maple</td></tr>
-    <tr><td class="num">Navy</td><td>Upper School</td><td>Birch, Ash</td></tr>
+    <tr><td class="num">Red</td><td>Lower School</td><td>Willow, Hazel</td></tr>
+    <tr><td class="num">Purple</td><td>Middle School</td><td>Oak, Maple</td></tr>
+    <tr><td class="num">Navy</td><td>Upper School</td><td>Birch, Ash, Cedar</td></tr>
   </tbody>
 </table>
 

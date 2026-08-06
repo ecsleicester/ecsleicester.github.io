@@ -5,7 +5,7 @@ description: "What pupils learn in Lower School at Emmanuel Christian School, Le
 permalink: /lower/
 crumb: "<a href='/'>Home</a>  ›  <a href='/curriculum/'>Curriculum</a>  ›  Lower School"
 heading: "Lower School"
-standfirst: "Hazel, Oak and Willow. Reading secured early, because everything after it depends on that."
+standfirst: "Willow and Hazel. Reading secured early, because everything after it depends on that."
 draft: "Subjects, class teachers and the weekly shape need checking against the 2026/27 timetable."
 contents:
   - id: first
@@ -35,7 +35,7 @@ Alongside reading, writing and number, pupils are taught science, history, geogr
 
 ## Mixed-age classes {#mixed}
 
-Hazel, Oak and Willow are each mixed-age. A child works at the level they are actually at, and a child who needs another term on something can have it without moving class or feeling marked out.
+Willow and Hazel are both mixed-age classes — Willow takes Reception to Year 2, Hazel Years 3 and 4. A child works at the level they are actually at, and a child who needs another term on something can have it without moving class or feeling marked out.
 
 <span class="todo">Confirm the current class teachers and support staff for each class</span>
 

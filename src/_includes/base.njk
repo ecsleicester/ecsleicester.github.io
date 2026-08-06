@@ -23,7 +23,16 @@
     <span class="brand-txt">{{ site.name }}<em>{{ site.place }}</em></span></a>
   <nav class="links" id="links">
     {%- for item in nav %}
-    <a href="{{ item.url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.text }}</a>
+    <div class="navitem">
+      <a href="{{ item.url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.text }}</a>
+      {%- if item.children.length %}
+      <div class="dropdown">
+        {%- for c in item.children %}
+        <a href="{{ c.url }}">{{ c.text }}</a>
+        {%- endfor %}
+      </div>
+      {%- endif %}
+    </div>
     {%- endfor %}
   </nav>
   <a class="btn btn-navy nav-cta" href="/admissions/">Book a visit</a>

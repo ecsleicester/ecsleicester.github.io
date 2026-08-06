@@ -32,6 +32,23 @@
   nav.links a{font-family:var(--display);font-size:14px;font-weight:600;text-decoration:none;
     color:var(--navy);padding:5px 0;border-bottom:2px solid transparent;transition:border-color .18s,color .18s}
   nav.links a:hover,nav.links a[aria-current]{border-color:var(--gold);color:var(--indigo)}
+
+  /* dropdown navigation */
+  nav.links{align-items:stretch}
+  .navitem{position:relative;display:flex;align-items:center}
+  .dropdown{
+    position:absolute;top:100%;left:-16px;min-width:252px;z-index:80;
+    background:#fff;border:1px solid var(--line);border-top:2px solid var(--gold);
+    box-shadow:0 14px 34px rgba(10,26,87,.13);padding:7px 0;
+    opacity:0;visibility:hidden;transform:translateY(-5px);
+    transition:opacity .15s ease,transform .15s ease,visibility .15s;
+  }
+  .navitem:hover .dropdown,.navitem:focus-within .dropdown{opacity:1;visibility:visible;transform:none}
+  .dropdown a{
+    display:block;padding:9px 20px;font-family:var(--display);font-size:13.5px;
+    font-weight:600;color:var(--navy);text-decoration:none;border:0;white-space:nowrap;
+  }
+  .dropdown a:hover{background:var(--pale);color:var(--indigo)}
   .btn{font-family:var(--display);font-weight:700;font-size:14px;text-decoration:none;
     padding:11px 20px;border-radius:2px;display:inline-block;transition:transform .16s,background .18s}
   .btn-navy{background:var(--indigo);color:#fff}
@@ -143,6 +160,16 @@
     nav.links.open{display:flex;position:absolute;top:100%;left:0;right:0;background:#fff;
       flex-direction:column;gap:0;padding:8px 24px 18px;border-bottom:1px solid var(--line)}
     nav.links.open a{padding:12px 0;border-bottom:1px solid var(--line)}
+    .links.open{flex-direction:column;align-items:stretch}
+    .links.open .navitem{display:block}
+    .links.open .navitem > a{display:block;padding:12px 0;border-bottom:1px solid var(--line)}
+    .links.open .dropdown{
+      position:static;opacity:1;visibility:visible;transform:none;
+      box-shadow:none;border:0;border-left:2px solid var(--mist);min-width:0;
+      padding:4px 0 10px 14px;margin:6px 0 10px;
+    }
+    .links.open .dropdown a{padding:8px 0;font-size:13px;color:var(--slate)}
+
     .menu-btn{display:block}
     .btn.nav-cta{display:none}
     .f-top{grid-template-columns:1fr}

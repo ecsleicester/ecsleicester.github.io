@@ -5,7 +5,7 @@ description: "What pupils learn in Middle School at Emmanuel Christian School, L
 permalink: /middle/
 crumb: "<a href='/'>Home</a>  ›  <a href='/curriculum/'>Curriculum</a>  ›  Middle School"
 heading: "Middle School"
-standfirst: "Cedar and Maple. Subject teaching begins, with the pastoral care of a small class kept around it."
+standfirst: "Oak and Maple. Subject teaching begins, with the pastoral care of a small class kept around it."
 draft: "Subjects and staffing need checking against the 2026/27 timetable."
 contents:
   - id: shift
@@ -27,7 +27,7 @@ nextprev: |
 
 ## One teacher becomes several {#shift}
 
-<p class="lead">Cedar and Maple are where the change happens. A pupil moves from one teacher who knows them in every subject to several teachers who each know them in one. We do it gradually, and the class keeps a form teacher who holds the whole picture.</p>
+<p class="lead">Oak takes Years 5 and 6, Maple Years 7 and 8. This is where the change happens. A pupil moves from one teacher who knows them in every subject to several teachers who each know them in one. We do it gradually, and the class keeps a form teacher who holds the whole picture.</p>
 
 That form teacher is the person a parent talks to first, and the person who notices when a pupil is fine in three subjects and struggling in a fourth.
 

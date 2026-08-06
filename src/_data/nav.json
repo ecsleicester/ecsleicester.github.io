@@ -1,7 +1,119 @@
 [
-  { "text": "About",      "url": "/about/" },
-  { "text": "Curriculum", "url": "/curriculum/" },
-  { "text": "Parents",    "url": "/parents/" },
-  { "text": "Admissions", "url": "/admissions/" },
-  { "text": "Contact",    "url": "/contact/" }
+  {
+    "text": "About",
+    "url": "/about/",
+    "children": [
+      {
+        "text": "Our vision and history",
+        "url": "/about/"
+      },
+      {
+        "text": "What we believe",
+        "url": "/faith/"
+      },
+      {
+        "text": "Aims and values",
+        "url": "/values/"
+      },
+      {
+        "text": "Meet the team",
+        "url": "/team/"
+      },
+      {
+        "text": "Governance",
+        "url": "/governance/"
+      },
+      {
+        "text": "Inspection reports",
+        "url": "/inspection/"
+      }
+    ]
+  },
+  {
+    "text": "Curriculum",
+    "url": "/curriculum/",
+    "children": [
+      {
+        "text": "Curriculum overview",
+        "url": "/curriculum/"
+      },
+      {
+        "text": "Lower School",
+        "url": "/lower/"
+      },
+      {
+        "text": "Middle School",
+        "url": "/middle/"
+      },
+      {
+        "text": "Upper School and GCSE",
+        "url": "/upper/"
+      },
+      {
+        "text": "SEND and support",
+        "url": "/send/"
+      },
+      {
+        "text": "Growing in Christ: RSHE",
+        "url": "/rshe/"
+      },
+      {
+        "text": "Examination results",
+        "url": "/results/"
+      }
+    ]
+  },
+  {
+    "text": "Admissions",
+    "url": "/admissions/",
+    "children": [
+      {
+        "text": "Visiting and applying",
+        "url": "/admissions/"
+      },
+      {
+        "text": "Fees",
+        "url": "/fees/"
+      },
+      {
+        "text": "Questions parents ask",
+        "url": "/faq/"
+      }
+    ]
+  },
+  {
+    "text": "Parents",
+    "url": "/parents/",
+    "children": [
+      {
+        "text": "Parent Hub",
+        "url": "/parents/#hub"
+      },
+      {
+        "text": "Term dates",
+        "url": "/termdates/"
+      },
+      {
+        "text": "Uniform and PE kit",
+        "url": "/uniform/"
+      },
+      {
+        "text": "Illness and absence",
+        "url": "/absence/"
+      },
+      {
+        "text": "Policies",
+        "url": "/policies/"
+      },
+      {
+        "text": "Complaints",
+        "url": "/complaints/"
+      }
+    ]
+  },
+  {
+    "text": "Contact",
+    "url": "/contact/",
+    "children": []
+  }
 ]

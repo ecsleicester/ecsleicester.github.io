@@ -58,25 +58,25 @@ The framework is being introduced in phases across the school. Some subjects are
 
 ## How the school is organised {#structure}
 
-We teach in seven mixed-age classes. A child joining in Hazel at four can stay through to Ash and leave with GCSEs at sixteen, taught along the way by nearly every member of staff.
+We teach in seven mixed-age classes. A child joining in Willow at four can stay through to Cedar and leave with GCSEs at sixteen, taught along the way by nearly every member of staff.
 
 Mixed-age teaching is a deliberate choice, not only a consequence of our size. Children work at the level they are actually at rather than the level their birthday implies, older pupils learn by explaining, and a child who needs another year on something can have it without moving class or losing face.
 
 <table>
 <caption>Classes and phases</caption>
-<thead><tr><th style="width:22%">Class</th><th style="width:20%">Ages</th><th style="width:24%">Phase</th><th>Taught by</th></tr></thead>
-<tbody>
-<tr><td class="num">Hazel</td><td>4–6 <span class="todo">confirm</span></td><td>Lower School</td><td>Class teacher, with specialist input</td></tr>
-<tr><td class="num">Oak</td><td>6–8 <span class="todo">confirm</span></td><td>Lower School</td><td>Class teacher, with specialist input</td></tr>
-<tr><td class="num">Willow</td><td>8–9 <span class="todo">confirm</span></td><td>Lower School</td><td>Class teacher, with specialist input</td></tr>
-<tr><td class="num">Cedar</td><td>9–11 <span class="todo">confirm</span></td><td>Middle School</td><td>Class teacher moving to subject teachers</td></tr>
-<tr><td class="num">Maple</td><td>11–13 <span class="todo">confirm</span></td><td>Middle School</td><td>Subject teachers</td></tr>
-<tr><td class="num">Birch</td><td>13–14 <span class="todo">confirm</span></td><td>Upper School</td><td>Subject teachers</td></tr>
-<tr><td class="num">Ash</td><td>14–16 <span class="todo">confirm</span></td><td>Upper School</td><td>Subject teachers</td></tr>
-</tbody>
+  <thead><tr><th style="width:20%">Class</th><th style="width:28%">Year groups</th><th style="width:24%">Phase</th><th>Taught by</th></tr></thead>
+  <tbody>
+    <tr><td class="num">Willow</td><td>Reception to Year 2</td><td>Lower School</td><td>Class teacher, with specialist input</td></tr>
+    <tr><td class="num">Hazel</td><td>Years 3 and 4</td><td>Lower School</td><td>Class teacher, with specialist input</td></tr>
+    <tr><td class="num">Oak</td><td>Years 5 and 6</td><td>Middle School</td><td>Class teacher moving to subject teachers</td></tr>
+    <tr><td class="num">Maple</td><td>Years 7 and 8</td><td>Middle School</td><td>Subject teachers</td></tr>
+    <tr><td class="num">Birch</td><td>Year 9</td><td>Upper School</td><td>Subject teachers</td></tr>
+    <tr><td class="num">Ash</td><td>Year 10</td><td>Upper School</td><td>Subject teachers</td></tr>
+    <tr><td class="num">Cedar</td><td>Year 11</td><td>Upper School</td><td>Subject teachers</td></tr>
+  </tbody>
 </table>
 
-## Lower School {#lower}
+## Lower School — Willow and Hazel {#lower}
 
 The first years are about securing reading, writing and number, because everything after depends on them. Children who read fluently and early can access the whole curriculum; children who do not spend the rest of their schooling catching up. We would rather spend the time now.
 
@@ -84,17 +84,17 @@ Alongside that, pupils are taught science, history, geography, art, design and t
 
 Mathematics follows a mastery approach built on the White Rose sequence, adapted for mixed-age classes. Children move on when they have understood, not when the calendar says so.
 
-## Middle School {#middle}
+## Middle School — Oak and Maple {#middle}
 
-Cedar and Maple are where the shift happens: from one teacher who knows a child in every subject, to several teachers who each know them in one. We do this gradually, and the class keeps a form teacher who holds the whole picture.
+Oak and Maple are where the shift happens: from one teacher who knows a child in every subject, to several teachers who each know them in one. We do this gradually, and the class keeps a form teacher who holds the whole picture.
 
 Pupils are taught English, mathematics, science, history, geography, religious education, modern foreign languages, art, design and technology, music, drama, computing, physical education and PSHE. World religions are taught from Year 7 upwards: our pupils should be able to give a fair account of what a Muslim or a Hindu actually believes, not a caricature of it.
 
 <span class="todo">Confirm subject list against the 2026/27 timetable</span>
 
-## Upper School and GCSE {#upper}
+## Upper School and GCSE — Birch, Ash and Cedar {#upper}
 
-Birch and Ash work towards GCSE. Courses are examined with AQA and Eduqas. Because our cohorts are small, pupils are taught in groups where nobody can sit quietly at the back and nobody’s misunderstanding goes unnoticed for a fortnight.
+Birch, Ash and Cedar work towards GCSE. Courses are examined with AQA and Eduqas. Because our cohorts are small, pupils are taught in groups where nobody can sit quietly at the back and nobody’s misunderstanding goes unnoticed for a fortnight.
 
 <table>
 <caption>GCSE courses offered</caption>

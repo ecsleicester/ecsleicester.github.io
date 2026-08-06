@@ -5,7 +5,7 @@ description: "What pupils learn in Upper School and GCSE at Emmanuel Christian S
 permalink: /upper/
 crumb: "<a href='/'>Home</a>  ›  <a href='/curriculum/'>Curriculum</a>  ›  Upper School and GCSE"
 heading: "Upper School and GCSE"
-standfirst: "Birch and Ash. GCSE courses taught in groups small enough that nobody can hide at the back."
+standfirst: "Birch, Ash and Cedar. GCSE courses taught in groups small enough that nobody can hide at the back."
 draft: "The GCSE option list and awarding bodies need confirming."
 contents:
   - id: gcse
@@ -27,7 +27,7 @@ nextprev: |
 
 ## GCSE courses {#gcse}
 
-<p class="lead">Birch and Ash work towards GCSE, examined with AQA and Eduqas. Our option list is shorter than a large secondary’s. That is a real consequence of being small, and we would rather say so than let you discover it in Year 9.</p>
+<p class="lead">Birch is Year 9, Ash is Year 10 and Cedar is Year 11. Pupils work towards GCSEs examined with AQA and Eduqas. Our option list is shorter than a large secondary’s. That is a real consequence of being small, and we would rather say so than let you discover it in Year 9.</p>
 
 <table>
 <caption>Courses offered</caption>

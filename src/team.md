@@ -37,7 +37,7 @@ nextprev: |
 <thead><tr><th style="width:30%">Name</th><th>Role</th></tr></thead>
 <tbody>
 <tr><td class="num">Andy Harris</td><td>Head Teacher and Designated Safeguarding Lead. Teaches GCSE Business, PE, RE and design and technology.</td></tr>
-<tr><td class="num">Sarah Seeds</td><td>Head of Lower School and Deputy Designated Safeguarding Lead. Class teacher for Willow.</td></tr>
+<tr><td class="num">Sarah Seeds</td><td>Head of Lower School and Deputy Designated Safeguarding Lead. Class teacher for Willow, Reception to Year 2.</td></tr>
 <tr><td class="num">George Sutton</td><td>Head of Middle School.</td></tr>
 <tr><td class="num">Libby Harris</td><td>Special Educational Needs and Disabilities Coordinator, and Examinations Officer.</td></tr>
 </tbody>
