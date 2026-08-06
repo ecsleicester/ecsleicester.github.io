@@ -8,6 +8,7 @@
   }
   *{box-sizing:border-box}
   html{scroll-behavior:smooth}
+  html,body{overflow-x:hidden}
   body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--body);
     font-size:17px;line-height:1.68;-webkit-font-smoothing:antialiased}
   img{max-width:100%;display:block}
@@ -171,6 +172,18 @@
     .links.open .dropdown a{padding:8px 0;font-size:13px;color:var(--slate)}
 
     .menu-btn{display:block}
+    /* stop wide tables forcing the whole page sideways */
+    table{display:block;width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch}
+    thead,tbody{display:table;width:100%;min-width:420px}
+    .wrap{padding-left:20px;padding-right:20px}
+    article{overflow-wrap:break-word}
+    h1,h2,h3{overflow-wrap:break-word;hyphens:auto}
+    /* the open menu must be able to scroll */
+    nav.links.open{
+      max-height:calc(100vh - 66px);max-height:calc(100dvh - 66px);
+      overflow-y:auto;-webkit-overflow-scrolling:touch;overscroll-behavior:contain;
+    }
+
     .btn.nav-cta{display:none}
     .f-top{grid-template-columns:1fr}
     table{font-size:.86rem}
