@@ -200,14 +200,14 @@
   .more a:hover{border-color:var(--gold)}
 
   /* ---------- gallery ---------- */
-  .gallery{display:grid;grid-template-columns:repeat(4,1fr);grid-auto-rows:160px;gap:14px;margin-top:44px}
+  .gallery{display:grid;grid-template-columns:repeat(4,1fr);grid-auto-rows:170px;gap:14px;margin-top:44px;align-items:stretch}
   .tile{
     background:
       repeating-linear-gradient(45deg,rgba(26,58,110,.045) 0 10px,transparent 10px 20px),
       linear-gradient(150deg,var(--pale),var(--mist));
     border:1px solid var(--line);
   }
-  .tile{padding:0;overflow:hidden;position:relative;display:block;text-decoration:none}
+  .tile{padding:0;overflow:hidden;position:relative;display:block;text-decoration:none;height:100%}
   .tile img{width:100%;height:100%;object-fit:cover;transition:transform .5s cubic-bezier(.16,.8,.3,1)}
   .tile:hover img{transform:scale(1.04)}
   .tile.big{grid-column:span 2;grid-row:span 2}
@@ -289,7 +289,7 @@
     .three > div,.step{border-right:0;border-bottom:1px solid var(--line);padding-inline:0}
     .three > div:last-child,.step:last-child{border-bottom:0}
     .f-top{grid-template-columns:1fr 1fr}
-    .gallery{grid-template-columns:repeat(2,1fr)}
+    .gallery{grid-template-columns:repeat(2,1fr);grid-auto-rows:130px}
     .insp .grid{gap:34px}
   }
   @media (max-width:760px){
