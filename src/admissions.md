@@ -31,7 +31,7 @@ nextprev: |
 
 ## Who we admit {#who}
 
-<p class="lead">We admit children from the age of four through to sixteen. Most join us at the beginning, in Hazel, but children arrive at every stage and we are used to settling them.</p>
+<p class="lead">We admit children from the age of four through to sixteen. Most join us at the beginning, in Willow, but children arrive at every stage and we are used to settling them.</p>
 
 You do not have to be a Christian family. Many of our families are, and some are not. What we ask is that you are content for your child to be taught within a Christian framework, because it runs through the whole school and is not something a pupil can be excused from.
 
