@@ -31,7 +31,7 @@
 
   header.nav{position:sticky;top:0;z-index:60;background:rgba(251,252,254,.93);
     backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
-  .nav-in{display:flex;align-items:center;gap:20px;padding:13px 0;position:relative}
+  .nav-in{display:flex;align-items:center;gap:20px;padding-top:13px;padding-bottom:13px;position:relative}
   .brand{display:flex;align-items:center;gap:11px;text-decoration:none;margin-right:auto}
   .brand img{width:31px;height:auto}
   .brand-txt{font-family:var(--display);font-weight:800;font-size:14.5px;line-height:1.12;
@@ -76,7 +76,7 @@
       linear-gradient(160deg,#080876 0%,#0A1A57 55%,#101F3E 100%)}
   .phead img.sh{position:absolute;right:-70px;top:50%;transform:translateY(-50%);
     width:min(390px,44vw);opacity:.12;filter:saturate(0) brightness(2.6);pointer-events:none}
-  .phead-in{position:relative;padding:62px 0 66px;max-width:760px}
+  .phead-in{position:relative;padding-top:62px;padding-bottom:66px;max-width:760px}
   .crumb{font-family:var(--display);font-size:11.5px;font-weight:600;letter-spacing:.18em;
     text-transform:uppercase;color:var(--mist);margin:0 0 20px}
   .crumb a{text-decoration:none;border-bottom:1px solid rgba(255,255,255,.3)}
