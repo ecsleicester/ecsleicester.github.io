@@ -76,7 +76,7 @@ Jumper colour changes as a child moves through the school, so you can tell at a 
 
 ## Ordering {#ordering}
 
-Branded items are ordered through the Parent Hub, using your family passcode. You choose the size and the personalisation, see a preview of how the printing will look, and pay by bank transfer using the reference the Hub generates for you.
+Branded items are ordered through the [Parent Hub](https://script.google.com/macros/s/AKfycbyFia18Og2msKpA2PTSui3ltNBhh9Cn1G652KY4EbvmWkS4EnAaeXTRzV7mShe6DgxCyg/exec) using your family passcode. You choose the size and the personalisation, see a preview of how the printing will look, and pay by bank transfer using the reference the Hub generates for you.
 
 Orders are placed in batches rather than one at a time, so there are ordering deadlines. <span class="todo">add the link and the deadlines</span>
 

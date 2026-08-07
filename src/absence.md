@@ -37,11 +37,11 @@ nextprev: |
 
 <div class="note">
 <p><b>Report an absence in the Parent Hub</b></p>
-<p><span class="todo">Insert the Parent Hub link</span></p>
+<p style="margin:0"><a class="btn btn-gold" href="https://script.google.com/macros/s/AKfycbyFia18Og2msKpA2PTSui3ltNBhh9Cn1G652KY4EbvmWkS4EnAaeXTRzV7mShe6DgxCyg/exec" target="_blank" rel="noopener">Report an absence &rarr;</a></p>
 <p style="margin-top:12px">Sign in with your family passcode. One passcode covers all your children.</p>
 </div>
 
-If you would rather ring, or you cannot get into the Hub, telephone the school before <span class="todo">time</span> on each day your child is absent.
+If you would rather ring, or you cannot get into the Hub, telephone the school before 9.00am on each day your child is absent.
 
 - Telephone: [0116 222 0792](tel:01162220792)
 - Email: [office@ecsleicester.org.uk](mailto:office@ecsleicester.org.uk)
@@ -94,7 +94,7 @@ Tell us in writing about any allergy, however minor it seems, and update us when
 
 ## Lateness {#lateness}
 
-Registration closes at <span class="todo">time</span>. Children arriving after that should come to the office so that we know they are in the building.
+Registration closes at 9.00am. Children arriving after that should come to the office so that we know they are in the building.
 
 ## Attendance {#attendance}
 

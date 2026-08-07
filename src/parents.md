@@ -31,7 +31,7 @@ nextprev: |
 
 <div class="note">
 <p><b>Open the Parent Hub</b></p>
-<p><span class="todo">Insert the Parent Hub link</span></p>
+<p style="margin:0"><a class="btn btn-gold" href="https://script.google.com/macros/s/AKfycbyFia18Og2msKpA2PTSui3ltNBhh9Cn1G652KY4EbvmWkS4EnAaeXTRzV7mShe6DgxCyg/exec" target="_blank" rel="noopener">Open the Parent Hub &rarr;</a></p>
 <p style="margin-top:14px">Add it to your phone’s home screen and it behaves like an app. On an iPhone, open it in Safari, tap Share, then Add to Home Screen.</p>
 </div>
 
@@ -52,15 +52,19 @@ Passcodes are issued to each family by the school. If yours is not working, use 
 
 <table>
 <caption>Timings</caption>
-<thead><tr><th style="width:56%"> </th><th>Time</th></tr></thead>
-<tbody>
-<tr><td class="num">Doors open</td><td><span class="todo">enter</span></td></tr>
-<tr><td class="num">Registration</td><td><span class="todo">enter</span></td></tr>
-<tr><td class="num">Morning break</td><td><span class="todo">enter</span></td></tr>
-<tr><td class="num">Lunch</td><td><span class="todo">enter</span></td></tr>
-<tr><td class="num">End of day</td><td><span class="todo">enter</span></td></tr>
-</tbody>
+  <thead><tr><th style="width:46%">&nbsp;</th><th>Time</th></tr></thead>
+  <tbody>
+    <tr><td class="num">Gate opens</td><td>8.30am</td></tr>
+    <tr><td class="num">Bell</td><td>8.50am</td></tr>
+    <tr><td class="num">Registration closes</td><td>9.00am</td></tr>
+    <tr><td class="num">Break &mdash; Lower School</td><td>10.20am to 10.40am</td></tr>
+    <tr><td class="num">Break &mdash; Middle and Upper School</td><td>11.00am to 11.15am</td></tr>
+    <tr><td class="num">Lunch &mdash; whole school</td><td>12.00pm to 1.00pm</td></tr>
+    <tr><td class="num">End of the school day</td><td>3.15pm</td></tr>
+  </tbody>
 </table>
+
+Children arriving after 9.00am should come to the office so that we know they are in the building.
 
 ## Talking to us {#talk}
 

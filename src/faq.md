@@ -69,7 +69,7 @@ We do not have a sixth form. Pupils move on to sixth form colleges, further educ
 
 ### What time does the day start and finish?
 
-<span class="todo">enter times</span>
+The gate opens at 8.30am, the bell goes at 8.50am and registration closes at 9.00am. The school day ends at 3.15pm. Full timings are on the [parents page](/parents/).
 
 ### Is there wraparound care?
 
