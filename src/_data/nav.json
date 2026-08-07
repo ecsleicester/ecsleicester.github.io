@@ -112,6 +112,36 @@
     ]
   },
   {
+    "text": "Support us",
+    "url": "/support/",
+    "children": [
+      {
+        "text": "Pray for the school",
+        "url": "/support/#pray"
+      },
+      {
+        "text": "Prayer newsletter",
+        "url": "/support/#prayer"
+      },
+      {
+        "text": "The building extension",
+        "url": "/support/#extension"
+      },
+      {
+        "text": "Giving",
+        "url": "/support/#give"
+      },
+      {
+        "text": "Vacancies",
+        "url": "/support/#vacancies"
+      },
+      {
+        "text": "Helping in school",
+        "url": "/support/#volunteer"
+      }
+    ]
+  },
+  {
     "text": "Contact",
     "url": "/contact/",
     "children": []
