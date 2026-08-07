@@ -22,6 +22,15 @@
     -webkit-font-smoothing:antialiased;
   }
   img{max-width:100%;display:block}
+  iframe{max-width:100%;border:0}
+  /* grid and flex children will not shrink below their widest child unless told to.
+     Without this, one wide table stretches the whole column past the screen. */
+  .cols{min-width:0}
+  .cols > *{min-width:0;max-width:100%}
+  article{min-width:0;max-width:100%;overflow-wrap:anywhere}
+  article > *{max-width:100%}
+
+
   a{color:inherit}
   .wrap{width:100%;max-width:var(--wrap);margin-left:auto;margin-right:auto;padding-left:24px;padding-right:24px}
 
@@ -302,6 +311,11 @@
     /* stop wide tables forcing the whole page sideways */
     table{display:block;width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch}
     thead,tbody{display:table;width:100%;min-width:420px}
+    /* captions must not be squeezed by the scrolling table */
+    table > caption{display:block;width:100%;min-width:0;white-space:normal}
+    /* embedded forms must never push the page sideways */
+    iframe{width:100%!important;max-width:100%!important}
+
     .wrap{padding-left:20px;padding-right:20px}
     article{overflow-wrap:break-word}
     h1,h2,h3{overflow-wrap:break-word;hyphens:auto}
