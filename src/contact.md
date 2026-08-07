@@ -87,7 +87,11 @@ We are in Braunstone, west of Leicester city centre, in the grounds of Braunston
 
 ### Parking and getting here
 
-<span class="todo">Add parking arrangements, the nearest bus routes, and anything parents should know about drop-off and pick-up</span>
+**If you are visiting the school**, there are a few spaces outside the building. Say when you book and we will keep one for you.
+
+**If you are dropping off or collecting your child**, please do not park on Didsbury Street. Park on one of the surrounding streets and walk in. The street is residential and narrow, and the people who live on it have to get in and out of their own driveways twice a day, every day. We ask this of every family and we are grateful that families keep to it.
+
+**By bus**, the nearest stop is on Cort Crescent, a short walk from the school. <span class="todo">Add the bus route numbers</span>
 
 ## Urgent concerns about a child {#urgent}
 
