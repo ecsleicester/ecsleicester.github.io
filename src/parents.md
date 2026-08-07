@@ -16,7 +16,7 @@ contents:
     text: "Talking to us"
   - id: reports
     text: "Reports and consultations"
-  - id: links
+  - id: more
     text: "Everything else"
 nextprev: |
   <div class="nextprev">
@@ -80,9 +80,14 @@ If we are worried about your child, you will hear it from us early and in person
 
 You receive a written report each year and are invited to consultation evenings each term. From September 2026 you can also see your child’s assessment information as it is recorded, through Go4Schools, rather than waiting for the report.
 
-<span class="todo">Add the Go4Schools parent login link and a short line on how to get started</span>
+<div class="note">
+<p><b>Go4Schools</b></p>
+<p style="margin-bottom:14px"><a class="btn btn-navy" href="https://www.go4schools.com/parents/" target="_blank" rel="noopener">Go4Schools parent login →</a></p>
+<p style="margin:0"><b>Signing in for the first time:</b> click <em>First-time user</em>, enter the email address the school holds for you, and you will be sent a link to create a password. After that you sign in with your email address and that password.</p>
+<p style="margin-top:12px;margin-bottom:0">If the email does not arrive, check your junk folder. If it still does not, ring the school — it usually means we hold a different address for you.</p>
+</div>
 
-## Everything else {#links}
+## Everything else {#more}
 
 <div class="docs">
 <a class="doc" href="/termdates/"><div><b>Term dates</b><span>Including INSET days</span></div></a>
