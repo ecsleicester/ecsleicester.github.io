@@ -34,7 +34,7 @@ nextprev: |
 <tr><td class="num">Address</td><td>Emmanuel Christian School, Braunstone Evangelical Free Church, Didsbury Street, Leicester LE3 1QP</td></tr>
 <tr><td class="num">Telephone</td><td><a class="inline" href="tel:01162220792">0116 222 0792</a></td></tr>
 <tr><td class="num">Email</td><td><a class="inline" href="mailto:office@ecsleicester.org.uk">office@ecsleicester.org.uk</a></td></tr>
-<tr><td class="num">Office hours</td><td><span class="todo">enter</span></td></tr>
+<tr><td class="num">Office hours</td><td>8.30am to 3.30pm, term time</td></tr>
 <tr><td class="num">Head Teacher</td><td>Andy Harris</td></tr>
 <tr><td class="num">Proprietor</td><td>Leicestershire Christian Education Trust</td></tr>
 <tr><td class="num">Chair of Trustees</td><td>Julian Mercik, care of the school address</td></tr>
@@ -71,9 +71,23 @@ If the form does not load, [open it in a new window](https://forms.cloud.microso
 
 ## Finding us {#finding}
 
-We are in Braunstone, west of Leicester city centre, in Braunstone Evangelical Free Church on Didsbury Street.
+We are in Braunstone, west of Leicester city centre, in the grounds of Braunstone Evangelical Free Church on Didsbury Street.
 
-<span class="todo">Embed a map, and add parking and public transport information</span>
+<div style="position:relative;padding-bottom:56%;height:0;overflow:hidden;border:1px solid var(--line);margin:24px 0 18px">
+  <iframe
+    title="Map showing Emmanuel Christian School, Didsbury Street, Leicester"
+    src="https://www.google.com/maps?q=Braunstone+Evangelical+Free+Church,+Didsbury+Street,+Leicester+LE3+1QP&output=embed"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0"
+    loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade"
+    allowfullscreen></iframe>
+</div>
+
+<p style="margin-bottom:26px"><a class="btn btn-line" href="https://www.google.com/maps/dir/?api=1&destination=Braunstone+Evangelical+Free+Church,+Didsbury+Street,+Leicester+LE3+1QP" target="_blank" rel="noopener">Get directions &rarr;</a></p>
+
+### Parking and getting here
+
+<span class="todo">Add parking arrangements, the nearest bus routes, and anything parents should know about drop-off and pick-up</span>
 
 ## Urgent concerns about a child {#urgent}
 
