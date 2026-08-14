@@ -63,4 +63,6 @@ We do not have a sixth form. Pupils move on to sixth form colleges, further educ
 
 [See our examination results and leaver destinations →](/results/)
 
+We are also an examination centre for private candidates. [Sit your GCSEs with us →](/private-candidates/)
+
 <hr class="rule"/>
