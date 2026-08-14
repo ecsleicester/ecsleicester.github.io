@@ -70,7 +70,7 @@ Fees do not cover everything. Gifts from individuals and churches pay for the th
 
 <div class="note">
 <p><b>Ways to give</b></p>
-<p style="margin-bottom:14px"><a class="btn btn-gold" href="https://linktr.ee/ecsleicester" target="_blank" rel="noopener">See the ways to give →</a></p>
+<p style="margin-bottom:14px"><a class="btn btn-gold" href="/giving/">Ways to give →</a></p>
 <p style="margin:0">We can claim Gift Aid on eligible donations, which adds 25p to every pound you give at no cost to you.</p>
 </div>
 
