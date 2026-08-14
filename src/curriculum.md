@@ -150,23 +150,31 @@ Birch, Ash and Cedar work towards GCSE. Courses are examined with AQA and Eduqas
 
 <table>
 <caption>GCSE courses offered</caption>
-  <thead><tr><th style="width:48%">Subject</th><th style="width:26%">Board</th><th>&nbsp;</th></tr></thead>
+  <thead><tr><th style="width:46%">Subject</th><th style="width:26%">Board</th><th>Core or option</th></tr></thead>
   <tbody>
-    <tr><td class="num">English Language</td><td>AQA or Eduqas</td><td>Taken by all pupils</td></tr>
-    <tr><td class="num">English Literature</td><td>AQA or Eduqas</td><td>Taken by all pupils</td></tr>
-    <tr><td class="num">Mathematics</td><td>AQA</td><td>Foundation or Higher</td></tr>
-    <tr><td class="num">Combined Science: Trilogy</td><td>AQA</td><td>Double award</td></tr>
-    <tr><td class="num">Business Studies</td><td>AQA</td><td>Option</td></tr>
+    <tr><td class="num">English Language</td><td>AQA or Eduqas</td><td>Core</td></tr>
+    <tr><td class="num">English Literature</td><td>AQA or Eduqas</td><td>Core</td></tr>
+    <tr><td class="num">Mathematics</td><td>AQA</td><td>Core</td></tr>
+    <tr><td class="num">Combined Science: Trilogy</td><td>AQA</td><td>Core</td></tr>
+    <tr><td class="num">Business Studies</td><td>AQA</td><td>Core</td></tr>
+    <tr><td class="num">Art and Design</td><td>AQA</td><td>Option</td></tr>
+    <tr><td class="num">French</td><td>AQA</td><td>Option</td></tr>
+    <tr><td class="num">History</td><td>AQA</td><td>Option</td></tr>
+    <tr><td class="num">Media Studies</td><td>AQA</td><td>Option</td></tr>
     <tr><td class="num">Food Preparation and Nutrition</td><td>AQA</td><td>Option</td></tr>
     <tr><td class="num">Physical Education</td><td>Eduqas</td><td>Option</td></tr>
   </tbody>
 </table>
 
-Option subjects run subject to numbers. Our cohorts are small, and we would rather be straight about that than list a subject we cannot staff in a given year.
+Design and technology and Biblical Studies are taught throughout the school but are not currently examined at GCSE.
 
-Design and technology, art and Biblical Studies are taught throughout the school but are not currently offered at GCSE.
+Not every option runs every year — with cohorts of this size, a subject needs enough pupils choosing it to be viable. We talk that through with each family at the point of choosing.
 
-Option subjects run subject to numbers. Our cohorts are small, and we would rather be straight about that than list a subject we cannot staff in a given year.
+
+
+
+
+
 
 [See our most recent examination results →](/results/)
 

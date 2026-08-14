@@ -6,7 +6,6 @@ permalink: /upper/
 crumb: "<a href='/'>Home</a>  ›  <a href='/curriculum/'>Curriculum</a>  ›  Upper School and GCSE"
 heading: "Upper School and GCSE"
 standfirst: "Birch, Ash and Cedar. GCSE courses taught in groups small enough that nobody can hide at the back."
-draft: "The GCSE option list and awarding bodies need confirming."
 contents:
   - id: gcse
     text: "GCSE courses"
@@ -27,7 +26,9 @@ nextprev: |
 
 ## GCSE courses {#gcse}
 
-<p class="lead">Birch is Year 9, Ash is Year 10 and Cedar is Year 11. Pupils work towards GCSEs examined with AQA and Eduqas. Our option list is shorter than a large secondary’s. That is a real consequence of being small, and we would rather say so than let you discover it in Year 9.</p>
+<p class="lead">Birch is Year 9, Ash is Year 10 and Cedar is Year 11. Pupils work towards GCSEs examined with AQA and Eduqas, taught in groups small enough that every pupil is known and every misunderstanding is noticed.</p>
+
+Five subjects are taken by everybody. Beyond those, pupils choose from a range that covers the humanities, the arts, a modern language and the practical subjects.
 
 <table>
 <caption>Courses offered</caption>
@@ -37,13 +38,21 @@ nextprev: |
     <tr><td class="num">English Literature</td><td>AQA or Eduqas</td><td>Core</td></tr>
     <tr><td class="num">Mathematics</td><td>AQA</td><td>Core</td></tr>
     <tr><td class="num">Combined Science: Trilogy</td><td>AQA</td><td>Core</td></tr>
-    <tr><td class="num">Business Studies</td><td>AQA</td><td>Option</td></tr>
+    <tr><td class="num">Business Studies</td><td>AQA</td><td>Core</td></tr>
+    <tr><td class="num">Art and Design</td><td>AQA</td><td>Option</td></tr>
+    <tr><td class="num">French</td><td>AQA</td><td>Option</td></tr>
+    <tr><td class="num">History</td><td>AQA</td><td>Option</td></tr>
+    <tr><td class="num">Media Studies</td><td>AQA</td><td>Option</td></tr>
     <tr><td class="num">Food Preparation and Nutrition</td><td>AQA</td><td>Option</td></tr>
     <tr><td class="num">Physical Education</td><td>Eduqas</td><td>Option</td></tr>
   </tbody>
 </table>
 
-Option subjects run subject to numbers. Design and technology, art and Biblical Studies are taught throughout the school but are not currently offered at GCSE.
+Design and technology, art and Biblical Studies are taught throughout the school; art continues to GCSE as an option.
+
+Not every option runs every year — with cohorts of this size, a subject needs enough pupils choosing it to be viable. We talk that through with each family at the point of choosing rather than leaving anybody to find out later.
+
+
 
 Option subjects run subject to numbers. Our cohorts are small, and we would rather be straight about that than list a subject we cannot staff in a given year.
 

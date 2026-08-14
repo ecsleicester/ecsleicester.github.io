@@ -55,7 +55,9 @@ Partly our size, but mostly because it works. A child can be stretched or given 
 
 ### Which GCSEs can my child take?
 
-Courses are examined with AQA and Eduqas. The full list is on the [curriculum page](/curriculum/). Our size means the option list is shorter than a large secondary’s, and we would rather be straight with you about that.
+Courses are examined with AQA and Eduqas. Five subjects are taken by everybody — English Language, English Literature, mathematics, combined science and business studies — and pupils then choose from art, French, history, media studies, food preparation and nutrition, and physical education.
+
+The full list is on the [curriculum page](/curriculum/).
 
 ### What happens after Year 11?
 
