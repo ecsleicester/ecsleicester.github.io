@@ -1,7 +1,8 @@
 [
   { "heading": "About", "links": [
     { "text": "Our vision and history", "url": "/about/" },
-    { "text": "Statement of faith",     "url": "/faith/" },
+    { "text": "Life at Emmanuel",       "url": "/life/" },
+    { "text": "What we believe",        "url": "/faith/" },
     { "text": "Aims and values",        "url": "/values/" },
     { "text": "Meet the team",          "url": "/team/" },
     { "text": "Governance",             "url": "/governance/" },
@@ -13,8 +14,9 @@
     { "text": "Middle School",          "url": "/middle/" },
     { "text": "Upper School and GCSE",  "url": "/upper/" },
     { "text": "SEND and support",       "url": "/send/" },
-    { "text": "RSHE",                   "url": "/rshe/" },
-    { "text": "Examination results",    "url": "/results/" }
+    { "text": "Growing in Christ: RSHE","url": "/rshe/" },
+    { "text": "Examination results",    "url": "/results/" },
+    { "text": "Private candidates",     "url": "/private-candidates/" }
   ]},
   { "heading": "Parents", "links": [
     { "text": "Parent Hub",             "url": "/parents/#hub" },
@@ -23,6 +25,7 @@
     { "text": "Illness and absence",    "url": "/absence/" },
     { "text": "Policies",               "url": "/policies/" },
     { "text": "Complaints",             "url": "/complaints/" },
+    { "text": "Giving",                 "url": "/giving/" },
     { "text": "Vacancies",              "url": "/support/#vacancies" }
   ]}
 ]
