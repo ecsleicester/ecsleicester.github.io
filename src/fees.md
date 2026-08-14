@@ -85,7 +85,7 @@ The fee covers your child’s education: teaching, classroom materials, and the 
 
 We are a packed lunch school. Lunches are brought from home, so there is no meal charge.
 
-<span class="todo">Confirm whether individual music tuition is offered, and at what cost</span>
+
 
 ## Paying {#paying}
 
@@ -102,22 +102,7 @@ Emmanuel was started by families who could not have afforded a conventional inde
 
 We do not have a bursary fund. What we do have is a **means-tested fee reduction**: where a family genuinely cannot meet the full fee, we will look at your circumstances and agree a reduced figure.
 
-### How it works
 
-<table>
-  <caption>Applying for a fee reduction</caption>
-  <thead><tr><th style="width:12%">&nbsp;</th><th style="width:30%">Step</th><th>What happens</th></tr></thead>
-  <tbody>
-    <tr><td class="num">1</td><td>Speak to the Head Teacher</td><td>A private conversation, in person or on the phone. Nothing is written down at this stage.</td></tr>
-    <tr><td class="num">2</td><td>Complete a form</td><td>The Head Teacher gives you a form asking about your circumstances and income.</td></tr>
-    <tr><td class="num">3</td><td>The finance sub-committee considers it</td><td>A small group of trustees looks at the form and decides. They meet as soon as a request comes in rather than waiting for a scheduled date.</td></tr>
-    <tr><td class="num">4</td><td>You are told the outcome</td><td>If a reduction is agreed, you are told what your revised monthly figure will be.</td></tr>
-  </tbody>
-</table>
-
-**Who sees your information.** The Head Teacher and the trustees on the finance sub-committee, and nobody else. Not your child’s teachers, and not other parents. Your child will never know unless you tell them.
-
-There is no fixed deadline. Ask whenever you need to, including part way through a year if your circumstances change.
 
 <div class="note">
 <p><b>Have the conversation</b></p>

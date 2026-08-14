@@ -1,48 +1,65 @@
 ---
 layout: page.njk
-title: "News and events"
-description: "News and events from Emmanuel Christian School, Leicester."
-permalink: /news/
-crumb: "<a href='/'>Home</a>  ›  News and events"
-heading: "News and events"
-standfirst: "What has been happening, and what is coming up."
-draft: "This page is a shell. Decide whether news will be maintained before publishing it."
+title: "Life at Emmanuel"
+description: "Photographs and news from Emmanuel Christian School, Leicester."
+permalink: /life/
+crumb: "<a href='/'>Home</a> &nbsp;&rsaquo;&nbsp; Life at Emmanuel"
+heading: "Life at Emmanuel"
+standfirst: "Worship, lessons, breaktime and the summer fair. An ordinary year at a small school."
 contents:
-  - id: latest
-    text: "Latest"
-  - id: dates
-    text: "Dates for the diary"
+  - id: photos
+    text: "Around the school"
+  - id: social
+    text: "Follow us"
   - id: prayer
     text: "Prayer newsletter"
+  - id: dates
+    text: "Term dates"
 nextprev: |
   <div class="nextprev">
-  <a class="np" href="/"><span>Back</span><b>← Home</b></a>
-  <a class="np" href="/support/"><span>Next</span><b>Supporting the school →</b></a>
+  <a class="np" href="/about/"><span>Back</span><b>← About us</b></a>
+  <a class="np" href="/admissions/"><span>Next</span><b>Come and visit →</b></a>
   </div>
 ---
 
-## Latest {#latest}
+## Around the school {#photos}
 
-<p class="lead"><span class="todo">This page is a shell. Before publishing it, decide whether news will actually be maintained.</span></p>
+<p class="lead">Not stock photographs. These are our children, our staff and our building, taken across an ordinary year.</p>
+
+<div class="gallery" style="margin-top:26px">
+  <div class="tile big"><img src="/assets/img/worship.jpg" alt="The whole school gathered for worship"></div>
+  <div class="tile"><img src="/assets/img/bible-teaching.jpg" alt="Younger pupils listening to Bible teaching"></div>
+  <div class="tile"><img src="/assets/img/playground.jpg" alt="Pupils playing football at breaktime"></div>
+  <div class="tile"><img src="/assets/img/outside-church.jpg" alt="Pupils eating lunch outside on the all-weather pitch"></div>
+  <div class="tile"><img src="/assets/img/summer-fair.jpg" alt="Families at the school summer fair"></div>
+  <div class="tile"><img src="/assets/img/water-games.jpg" alt="Pupils lined up for games on the pitch"></div>
+  <div class="tile"><img src="/assets/img/christmas-dinner.jpg" alt="Pupils and staff at the school Christmas dinner"></div>
+  <div class="tile"><img src="/assets/img/aerial.jpg" alt="The school site from above"></div>
+</div>
+
+## Follow us {#social}
+
+Day to day, the quickest way to see what is happening is on social media. We post there far more often than we could ever update a website.
 
 <div class="note">
-<p><b>A decision to make first</b></p>
-<p>A news page with nothing since last March does more damage than no news page at all — it is the first thing that makes a website look abandoned. If you cannot commit to posting monthly, replace this with a single <em>Life at Emmanuel</em> gallery page that never looks out of date.</p>
+<p><b>Find us online</b></p>
+<p style="margin:0">
+<a class="btn btn-navy" href="https://www.facebook.com/ECSLeicester" target="_blank" rel="noopener">Facebook &rarr;</a>
+<a class="btn btn-line" href="https://www.instagram.com/emmanuelschoolleicester" target="_blank" rel="noopener" style="margin-left:8px">Instagram &rarr;</a>
+</p>
 </div>
-
-</a>
-</div>
-
-## Dates for the diary {#dates}
-
-<span class="todo">Add upcoming events, or link the school calendar</span>
-
-[Term dates →](/termdates/)
 
 ## Prayer newsletter {#prayer}
 
-Our termly prayer newsletter carries school news alongside things to pray for. It goes to anyone who asks for it, whether or not they have a child here.
+Our termly prayer newsletter carries news from the school alongside things to pray for. It goes to churches, former parents, grandparents and anyone else who asks — whether or not you have a child here.
 
 [Sign up for the prayer newsletter →](/support/#prayer)
 
-<hr class="rule"/>
+## Term dates {#dates}
+
+For what is coming up, and when the terms begin and end:
+
+<div class="docs">
+<a class="doc" href="/termdates/"><div><b>Term dates</b><span>Including staff training days</span></div></a>
+<a class="doc" href="/admissions/"><div><b>Come and see us</b><span>Visits happen on ordinary working days</span></div></a>
+</div>

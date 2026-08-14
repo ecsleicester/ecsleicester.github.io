@@ -61,21 +61,23 @@ We would rather you came on an ordinary Tuesday than to a polished open evening.
 <tbody>
 <tr><td class="num">1</td><td>Get in touch</td><td>Fill in the visit form above, or ring the school. Tell us your child’s age and when you are hoping they would start.</td></tr>
 <tr><td class="num">2</td><td>Visit the school</td><td>An hour with the Head Teacher, during a normal working day.</td></tr>
-<tr><td class="num">3</td><td>Apply</td><td>We give you the application form after the visit. <span class="todo">confirm whether there is an application fee</span></td></tr>
+<tr><td class="num">3</td><td>Apply</td><td>We give you the application form after the visit. There is no application fee.</td></tr>
 <tr><td class="num">4</td><td>Records and conversation</td><td>We ask your child’s current school or nursery for information, with your permission, so that we start from where they actually are.</td></tr>
-<tr><td class="num">5</td><td>Taster days</td><td>Your child spends time in the class they would join. <span class="todo">confirm how many days</span></td></tr>
+<tr><td class="num">5</td><td>Taster days</td><td>Your child spends time in the class they would join. At least one day, and more if it would help.</td></tr>
 <tr><td class="num">6</td><td>Offer</td><td>A written offer of a place, subject to the admissions policy and to accepting the terms of admission.</td></tr>
 <tr><td class="num">7</td><td>Starting</td><td>We agree a start date and tell you exactly what your child needs on day one.</td></tr>
 </tbody>
 </table>
 
-<span class="todo">Confirm the expected timescale from application to offer</span>
+We respond to applications within ten working days.
 
 ## Places and waiting lists {#places}
 
 The school has capacity for seventy-five pupils across seven classes. Because classes are small, individual classes fill before the school does, and a place may be available in one year group and not another.
 
-Where a class is full we keep a waiting list. <span class="todo">Confirm how the waiting list is ordered and how long a name stays on it</span>
+**We have space at present, and there is no waiting list.**
+
+Where a class does become full we keep one, ordered by the date of application. A name stays on it for as long as a family would like it to.
 
 ## Joining part way through {#joining}
 
@@ -83,7 +85,7 @@ Children arrive mid-year for all sorts of reasons, including because school has 
 
 ## Starting in the early years {#eyfs}
 
-Children joining in the reception year settle in gradually rather than all at once. <span class="todo">Describe the induction arrangements, staggered starts and any home visits</span>
+Children joining in the reception year settle in gradually rather than all at once. Children joining in Reception spend extra sessions in the class before they start, so that the first day is a return to somewhere familiar rather than an arrival somewhere new.
 
 ## Documents {#documents}
 

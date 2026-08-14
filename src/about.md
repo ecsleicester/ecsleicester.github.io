@@ -27,17 +27,43 @@ nextprev: |
 
 ## How the school began {#start}
 
-<p class="lead">Emmanuel started with a prayer meeting in 2001. A group of Leicester parents wanted their children educated somewhere Christian faith was not something added on at the end of the day, and they had no idea whether it was possible.</p>
+<p class="lead">Emmanuel started with a prayer meeting in November 2001. A group of Leicester parents wanted their children educated somewhere Christian faith was not something added on at the end of the day, and they had no idea whether it was possible.</p>
 
-They had no building, no funding and no guarantee it would work. It took two more years of praying and giving before the school opened its doors in August 2003. Two decades on it is still recognisably the same thing: parent-founded, not part of a chain, and dependent on people who believe in it.
+They met to pray and to seek God's will. A public meeting followed in January 2002, and from it came a steering committee under the name of the Leicester and Leicestershire Christian School Project. They met regularly, held further public meetings, visited other schools, and found people who could help them. Families began committing themselves and their children to a school that did not yet exist.
 
-The school has never moved. From the first day it has met in Braunstone Evangelical Free Church on Didsbury Street, and that partnership has lasted the whole of its life. Our pupils are taught in a building that belongs to a congregation at the weekend and to children during the week — which is a fair picture of how the school itself works.
+Then they needed somewhere to be. In May 2003, after much discussion and prayer, the committee accepted an invitation from Braunstone Evangelical Free Church to use their premises on Didsbury Street.
 
-From a handful of pupils it has grown to seven classes taking children from Reception through to Year 11, with capacity for seventy-five.
+**The school opened on 28 August 2003 with eleven pupils of primary school age.**
 
-<span class="todo">Add when the Leicestershire Christian Education Trust was formed, and anything else from the early years worth recording</span>
+### Growing
 
-<img src="/assets/img/school-illustration.jpg" alt="Illustrated map of Emmanuel Christian School showing the classrooms, playground and church building" style="width:100%;margin:8px 0 10px">
+<table>
+  <caption>Some of the milestones</caption>
+  <thead><tr><th style="width:22%">&nbsp;</th><th>&nbsp;</th></tr></thead>
+  <tbody>
+    <tr><td class="num">2001</td><td>The first prayer meeting</td></tr>
+    <tr><td class="num">2003</td><td>The school opens with eleven primary-aged pupils</td></tr>
+    <tr><td class="num">2005</td><td>A secondary phase begins, for Years 7, 8 and 9</td></tr>
+    <tr><td class="num">2013</td><td>Key Stage 4 begins, with four pupils taking eight GCSEs</td></tr>
+    <tr><td class="num">2015</td><td>That first cohort sits their examinations. Every one of them gains five grades A* to C, including English and mathematics.</td></tr>
+    <tr><td class="num">2018</td><td>Judged good at inspection</td></tr>
+    <tr><td class="num">2025</td><td>Approval to increase our capacity to 75 pupils</td></tr>
+  </tbody>
+</table>
+
+Along the way the school became a registered examination centre, which is why we are now able to take private candidates as well as our own pupils, and moved from Ofsted to the Independent Schools Inspectorate.
+
+Pupils who left us have gone on to colleges, universities and into work.
+
+### Twenty-odd years on
+
+The school has never moved. From the first day it has met in Braunstone Evangelical Free Church on Didsbury Street, and that partnership has lasted the whole of its life. Our pupils are taught in a building that belongs to a congregation at the weekend and to children during the week &mdash; which is a fair picture of how the school itself works.
+
+From eleven pupils it has grown to seven classes taking children from Reception through to Year 11.
+
+It has never been an easy thing to run, and there have been years when the way forward was not obvious. Each time, God has provided through His people. We do not take that for granted.
+
+The Leicestershire Christian Education Trust was formed in 2024, and is now the proprietor body of the school.
 
 ## The building {#where}
 
@@ -47,7 +73,7 @@ Most classes are taught in our own classrooms in the portakabins on the site. Th
 
 The hall and kitchen we share with the congregation across the week, but during school hours they function as any school hall and kitchen does.
 
-<span class="todo">Add outdoor space, and where PE and games take place</span>
+PE and games take place on the artificial grass area behind the school. For sports day, and anything else needing more room, we use Braunstone Park.
 
 ## Our vision {#vision}
 

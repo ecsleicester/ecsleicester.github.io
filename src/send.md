@@ -74,7 +74,7 @@ Most support happens in the ordinary classroom, delivered by the ordinary class 
 
 We admit and teach pupils with EHC plans. Where a pupil has a plan, the provision specified in it is delivered, reviewed annually with you and the local authority, and reflected in the pupil’s Passport so that it shapes daily teaching rather than sitting in a file.
 
-<span class="todo">Confirm current arrangements for annual review meetings and local authority liaison</span>
+Annual reviews are arranged by our SENDCo when they fall due, together with the local authority.
 
 ## English as an additional language {#eal}
 
@@ -88,7 +88,7 @@ Additional need runs in both directions. Mixed-age classes make it straightforwa
 
 Our accessibility plan sets out how we improve access to the curriculum, to the physical site, and to information, for pupils with disabilities. It is reviewed on a three year cycle as required by the Equality Act 2010.
 
-<span class="todo">Link the current accessibility plan and confirm the review date</span>
+Our accessibility plan is published with our other policies. <a class="inline" href="/assets/policies/accessibility-plan.pdf">Read the accessibility plan</a>.
 
 ## Working with you {#parents}
 

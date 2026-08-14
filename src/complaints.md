@@ -102,7 +102,7 @@ We publish the number of complaints registered under the formal procedure each y
   <thead><tr><th style="width:60%">School year</th><th>Complaints registered</th></tr></thead>
   <tbody>
     <tr><td class="num">2025/26</td><td>None</td></tr>
-    <tr><td class="num">2024/25</td><td>None <span class="todo">confirm</span></td></tr>
+    <tr><td class="num">2024/25</td><td>None</td></tr>
   </tbody>
 </table>
 
@@ -114,9 +114,7 @@ Additional requirements apply to our early years provision beyond those that app
 
 Written complaints about the fulfilment of the Early Years Foundation Stage requirements are investigated, and the complainant is notified of the outcome within 28 days.
 
-Parents may also contact the Ofsted Complaints and Enforcement Team on 0300 123 4666 or at [enquiries@ofsted.gov.uk](mailto:enquiries@ofsted.gov.uk). Our record of complaints is made available to the Independent Schools Inspectorate on request.
-
-<span class="todo">Check this paragraph — see the note about Ofsted and ISI before publishing</span>
+As an ISI-inspected school, parents of children in the early years may also raise concerns with the Independent Schools Inspectorate. Our record of complaints is made available to the Inspectorate on request.
 
 ## Confidentiality and records {#records}
 

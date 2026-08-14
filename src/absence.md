@@ -58,7 +58,7 @@ Leave in term time — a medical appointment, a family occasion, anything planne
 
 The general rule is simple: if your child is well enough to take part in the school day, send them. Children who are miserable but not infectious usually do better in school than at home.
 
-The exclusion periods below follow national guidance on infections in schools. <span class="todo">Check against the current UK Health Security Agency guidance before publishing</span>
+The exclusion periods below follow national guidance on infections in schools. 
 
 <table>
 <caption>Common illnesses</caption>
@@ -80,7 +80,7 @@ If you are unsure, ring us. We would rather have the conversation than have you 
 
 We can administer prescribed medication where a form has been completed and the medicine is in its original labelled packaging. Nothing is given without written consent.
 
-<span class="todo">Confirm the procedure and link the consent form. Include arrangements for inhalers, adrenaline auto-injectors and any long-term conditions.</span>
+A medication form must be completed in person at school before we can give your child anything, including inhalers and adrenaline auto-injectors. If your child has a long-term condition, talk to us so that we can agree arrangements properly rather than form by form.
 
 ## First aid {#firstaid}
 
@@ -95,7 +95,9 @@ Our trained first aiders are Sarah Seeds, George Sutton, Mia Seeds and Ruth Alle
 
 ## Allergies {#allergies}
 
-Tell us in writing about any allergy, however minor it seems, and update us when things change. <span class="todo">Confirm the school’s position on nuts and other allergens</span>
+**We are a nut-free school.** Please do not send anything containing nuts in a packed lunch or a snack, including chocolate spreads and cereal bars that contain them.
+
+Tell us in writing about any allergy, however minor it seems, and update us when things change.
 
 ## Lateness {#lateness}
 
@@ -106,7 +108,7 @@ Registration closes at 9.00am. Children arriving after that should come to the o
 Attendance is not a statistic we chase for its own sake. In a small mixed-age class, a child who misses a fortnight is genuinely hard to catch up, and we would rather work with you early than write letters later. If your child is finding it hard to come in, tell us. That is a problem we can help with.
 
 <div class="docs">
-<a class="doc" href="/policies/"><div><b>Attendance policy</b><span>PDF · <span class="todo">date</span></span></div></a>
+<a class="doc" href="/policies/"><div><b>Attendance policy</b><span>PDF · reviewed August 2025</span></div></a>
 <a class="doc" href="/termdates/"><div><b>Term time holidays</b><span>Our position</span></div></a>
 </div>
 

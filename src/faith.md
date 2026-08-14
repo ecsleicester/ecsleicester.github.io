@@ -72,9 +72,9 @@ Pupils here will meet views that conflict with what they are taught at home and 
 
 ## Staff and the statement {#staff}
 
-Teaching and support staff are appointed on the basis of their agreement with the statement of faith as well as their professional competence. Where a role carries an occupational requirement of this kind, it is stated in the advertisement.
+Every member of staff at Emmanuel, teaching and support alike, is a Christian and subscribes to the statement of faith above. Appointments are made on that basis as well as on professional competence, and the requirement is stated in every advertisement.
 
-<span class="todo">Confirm this wording with the trust’s recruitment position — in particular whether the requirement applies to support staff as well as teaching staff</span>
+This is not incidental to how the school works. A child is as likely to be shaped by the adult who helps them at lunchtime as by the one who teaches them algebra.
 
 All appointments are subject to safer recruitment checks, including an enhanced DBS check.
 

@@ -49,12 +49,12 @@ nextprev: |
 <caption>Teachers</caption>
 <thead><tr><th style="width:30%">Name</th><th>Role</th></tr></thead>
 <tbody>
-<tr><td class="num">Susan Anderson</td><td><span class="todo">class and subjects</span></td></tr>
-<tr><td class="num">Peter Bull</td><td><span class="todo">class and subjects</span></td></tr>
-<tr><td class="num">Louise Hallam</td><td><span class="todo">class and subjects</span></td></tr>
-<tr><td class="num">Ros Krzak</td><td><span class="todo">class and subjects</span></td></tr>
+<tr><td class="num">Susan Anderson</td><td>French and mathematics.</td></tr>
+<tr><td class="num">Peter Bull</td><td>Class teacher for Oak. English, mathematics, science and computing.</td></tr>
+<tr><td class="num">Louise Hallam</td><td>English and religious education.</td></tr>
+<tr><td class="num">Ros Krzak</td><td>Art.</td></tr>
 <tr><td class="num">Sarah Sutton</td><td>Science and mathematics.</td></tr>
-<tr><td class="num">Hilary Whitesman</td><td><span class="todo">class and subjects</span></td></tr>
+<tr><td class="num">Hilary Whitesman</td><td>English literature.</td></tr>
 </tbody>
 </table>
 

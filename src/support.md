@@ -22,7 +22,7 @@ contents:
     text: "Helping in school"
 nextprev: |
   <div class="nextprev">
-  <a class="np" href="/news/"><span>Back</span><b>← News and events</b></a>
+  <a class="np" href="/life/"><span>Back</span><b>← Life at Emmanuel</b></a>
   <a class="np" href="/contact/"><span>Next</span><b>Contact us →</b></a>
   </div>
 ---

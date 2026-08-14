@@ -31,19 +31,19 @@ nextprev: |
 
 <table>
 <caption>Courses offered</caption>
-  <thead><tr><th style="width:44%">Subject</th><th style="width:24%">Board</th><th>Core or option</th></tr></thead>
+  <thead><tr><th style="width:46%">Subject</th><th style="width:26%">Board</th><th>Core or option</th></tr></thead>
   <tbody>
     <tr><td class="num">English Language</td><td>AQA or Eduqas</td><td>Core</td></tr>
     <tr><td class="num">English Literature</td><td>AQA or Eduqas</td><td>Core</td></tr>
     <tr><td class="num">Mathematics</td><td>AQA</td><td>Core</td></tr>
     <tr><td class="num">Combined Science: Trilogy</td><td>AQA</td><td>Core</td></tr>
     <tr><td class="num">Business Studies</td><td>AQA</td><td>Option</td></tr>
-    <tr><td class="num">Design and Technology</td><td><span class="todo">confirm board</span></td><td>Option</td></tr>
-    <tr><td class="num">Food Preparation and Nutrition</td><td><span class="todo">confirm board</span></td><td>Option</td></tr>
-    <tr><td class="num">Physical Education</td><td><span class="todo">confirm board</span></td><td>Option</td></tr>
-    <tr><td class="num">Religious Studies</td><td><span class="todo">confirm board</span></td><td>Option</td></tr>
+    <tr><td class="num">Food Preparation and Nutrition</td><td>AQA</td><td>Option</td></tr>
+    <tr><td class="num">Physical Education</td><td>Eduqas</td><td>Option</td></tr>
   </tbody>
 </table>
+
+Option subjects run subject to numbers. Design and technology, art and Biblical Studies are taught throughout the school but are not currently offered at GCSE.
 
 Option subjects run subject to numbers. Our cohorts are small, and we would rather be straight about that than list a subject we cannot staff in a given year.
 
@@ -53,7 +53,7 @@ A GCSE set here might be six or eight pupils. Nobody sits quietly at the back, a
 
 ## Choosing options {#choosing}
 
-<span class="todo">Describe when options are chosen, how pupils are advised, and what parents are given</span>
+Options are chosen during Year 8, in Maple. Pupils and parents are given an options letter, and we talk it through with each family. We also ask families to pray about it together before deciding.
 
 ## Examinations and access arrangements {#exams}
 

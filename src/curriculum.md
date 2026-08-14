@@ -142,7 +142,7 @@ Oak and Maple are where the shift happens: from one teacher who knows a child in
 
 Pupils are taught English, mathematics, science, history, geography, religious education, modern foreign languages, art, design and technology, music, drama, computing, physical education and PSHE. World religions are taught from Year 7 upwards: our pupils should be able to give a fair account of what a Muslim or a Hindu actually believes, not a caricature of it.
 
-<span class="todo">Confirm subject list against the 2026/27 timetable</span>
+
 
 ## Upper School and GCSE — Birch, Ash and Cedar {#upper}
 
@@ -150,19 +150,21 @@ Birch, Ash and Cedar work towards GCSE. Courses are examined with AQA and Eduqas
 
 <table>
 <caption>GCSE courses offered</caption>
-  <thead><tr><th style="width:46%">Subject</th><th style="width:24%">Board</th><th>&nbsp;</th></tr></thead>
+  <thead><tr><th style="width:48%">Subject</th><th style="width:26%">Board</th><th>&nbsp;</th></tr></thead>
   <tbody>
     <tr><td class="num">English Language</td><td>AQA or Eduqas</td><td>Taken by all pupils</td></tr>
     <tr><td class="num">English Literature</td><td>AQA or Eduqas</td><td>Taken by all pupils</td></tr>
     <tr><td class="num">Mathematics</td><td>AQA</td><td>Foundation or Higher</td></tr>
     <tr><td class="num">Combined Science: Trilogy</td><td>AQA</td><td>Double award</td></tr>
     <tr><td class="num">Business Studies</td><td>AQA</td><td>Option</td></tr>
-    <tr><td class="num">Design and Technology</td><td><span class="todo">confirm board</span></td><td>Option</td></tr>
-    <tr><td class="num">Food Preparation and Nutrition</td><td><span class="todo">confirm board</span></td><td>Option</td></tr>
-    <tr><td class="num">Physical Education</td><td><span class="todo">confirm board</span></td><td>Option</td></tr>
-    <tr><td class="num">Religious Studies</td><td><span class="todo">confirm board</span></td><td>Option</td></tr>
+    <tr><td class="num">Food Preparation and Nutrition</td><td>AQA</td><td>Option</td></tr>
+    <tr><td class="num">Physical Education</td><td>Eduqas</td><td>Option</td></tr>
   </tbody>
 </table>
+
+Option subjects run subject to numbers. Our cohorts are small, and we would rather be straight about that than list a subject we cannot staff in a given year.
+
+Design and technology, art and Biblical Studies are taught throughout the school but are not currently offered at GCSE.
 
 Option subjects run subject to numbers. Our cohorts are small, and we would rather be straight about that than list a subject we cannot staff in a given year.
 
@@ -194,13 +196,13 @@ Parents have the right to request that their child is withdrawn from sex educati
 
 Pupils in the secondary years receive impartial careers guidance covering the full range of options open to them: sixth form, college, apprenticeships and employment. It is impartial in the proper sense — we do not steer pupils towards a particular path, including a Christian one.
 
-<span class="todo">Describe the careers programme: who delivers it, when, and what pupils receive</span>
+
 
 ## Beyond the timetable {#beyond}
 
 Trips, sport, music, and the wider life of the school are part of the curriculum, not decoration around it.
 
-<span class="todo">Add the clubs, trips and enrichment actually running in 2026/27</span>
+
 
 <div class="note">
 <p><b>Want to see it rather than read about it?</b></p>
@@ -211,7 +213,7 @@ Trips, sport, music, and the wider life of the school are part of the curriculum
 ## Policies and documents {#documents}
 
 <div class="docs">
-<a class="doc" href="/policies/"><div><b>Curriculum policy</b><span>PDF · reviewed <span class="todo">date</span></span></div></a>
+<a class="doc" href="/policies/"><div><b>Curriculum policy</b><span>PDF · reviewed </span></div></a>
 <a class="doc" href="/assets/policies/assessment-policy.pdf"><div><b>Assessment policy</b><span>PDF &middot; reviewed August 2025</span></div></a>
 <a class="doc" href="/assets/policies/ecs-rhe-policy.pdf"><div><b>Relationships and health education</b><span>PDF &middot; reviewed May 2025</span></div></a>
 <a class="doc" href="/assets/policies/policy-for-send.pdf"><div><b>SEND policy</b><span>PDF &middot; reviewed September 2025</span></div></a>

@@ -12,8 +12,6 @@ contents:
     text: "The CHRIST values"
   - id: behaviour
     text: "How this shapes behaviour"
-  - id: legacy
-    text: "The Legacy Programme"
   - id: aims
     text: "Our aims"
 nextprev: |
@@ -45,14 +43,6 @@ nextprev: |
 Our approach to behaviour is developmental rather than punitive. A child who has behaved badly has something to learn, and the adult’s job is to teach it. That does not mean there are no consequences. It means the consequence is aimed at the future rather than the past.
 
 Because we are small, a pupil cannot become anonymous, and a difficult patch does not become a reputation that follows them for five years.
-
-## The Emmanuel Legacy Programme {#legacy}
-
-Pupils in the secondary years work through a character and achievement framework built around the six values, with awards at four levels: Foundation, Growth, Flourishing and Legacy.
-
-It recognises the things that do not appear on a certificate — service, perseverance, integrity under pressure — and it gives a pupil something to point at when they leave.
-
-<span class="todo">Confirm launch date, coordinator and how parents will see progress</span>
 
 ## Our aims {#aims}
 

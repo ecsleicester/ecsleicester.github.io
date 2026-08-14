@@ -56,9 +56,9 @@ nextprev: |
   <tbody>
     <tr><td class="num">Mr Julian Mercik</td><td>Chair of Trustees</td></tr>
     <tr><td class="num">Mrs Caroline Vickers</td><td>Safeguarding Governor</td></tr>
-    <tr><td class="num">Mr Pete Allen</td><td><span class="todo">responsibility, if any</span></td></tr>
-    <tr><td class="num">Mr Neil Seeds</td><td><span class="todo">responsibility, if any</span></td></tr>
-    <tr><td class="num">Dr Samuel Olutuase</td><td><span class="todo">check title and responsibility</span></td></tr>
+    <tr><td class="num">Mr Pete Allen</td><td>Trustee</td></tr>
+    <tr><td class="num">Mr Neil Seeds</td><td>Trustee</td></tr>
+    <tr><td class="num">Dr Samuel Olutuase</td><td>Trustee</td></tr>
     <tr><td class="num">Mr Andy Harris</td><td>Head Teacher, and a trustee</td></tr>
   </tbody>
 </table>
@@ -78,7 +78,15 @@ Trustees are unpaid volunteers. The Head Teacher sits on the board as a trustee 
 
 The full board meets every half term. Between those meetings, sub-committees take particular areas in more detail and report back.
 
-<span class="todo">Name the sub-committees and say briefly what each covers</span>
+<table>
+  <caption>Sub-committees</caption>
+  <thead><tr><th style="width:30%">Committee</th><th>&nbsp;</th></tr></thead>
+  <tbody>
+    <tr><td class="num">Safeguarding</td><td>Oversees safeguarding policy and practice, and reviews the safeguarding record with the Designated Safeguarding Lead.</td></tr>
+    <tr><td class="num">Finance</td><td>Oversees the budget, the school&rsquo;s financial position, and applications for means-tested fee reduction.</td></tr>
+    <tr><td class="num">Appraisal</td><td>Oversees the appraisal of the Head Teacher and the school&rsquo;s approach to staff appraisal.</td></tr>
+  </tbody>
+</table>
 
 Trustees also visit during the working day, meet staff, and see the school running rather than only reading about it in a report. In a school this size that matters: a governing body that only ever sees paperwork is not in a position to challenge it.
 

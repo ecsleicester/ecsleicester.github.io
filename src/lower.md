@@ -14,8 +14,6 @@ contents:
     text: "Mixed-age classes"
   - id: maths
     text: "Mathematics"
-  - id: week
-    text: "A week in Lower School"
   - id: worship
     text: "Bible and worship"
   - id: eyfs
@@ -37,15 +35,11 @@ Alongside reading, writing and number, pupils are taught science, history, geogr
 
 Willow and Hazel are both mixed-age classes — Willow takes Reception to Year 2, Hazel Years 3 and 4. A child works at the level they are actually at, and a child who needs another term on something can have it without moving class or feeling marked out.
 
-<span class="todo">Confirm the current class teachers and support staff for each class</span>
+Willow is taught by Sarah Seeds, Head of Lower School, supported by Joanna Harrison from Monday to Thursday and Mia Seeds on Friday. Hazel is taught mainly by George Sutton.
 
 ## Mathematics {#maths}
 
 We follow a mastery approach built on the White Rose sequence, adapted for mixed-age teaching. Children move on when they have understood, not when the calendar says they should.
-
-## A week in Lower School {#week}
-
-<span class="todo">Add the shape of a typical week: when phonics happens, when PE is, how the day is structured</span>
 
 ## Bible and worship {#worship}
 
@@ -53,6 +47,6 @@ Bible teaching happens weekly and worship happens daily. Children pray, sing, an
 
 ## The early years {#eyfs}
 
-<span class="todo">Describe the early years provision: how learning through play works alongside formal teaching, and the statutory framework arrangements</span>
+Reception provision is planned and evidenced against the Early Years Foundation Stage framework. Children learn through play and through structured teaching, with the balance shifting gradually across the year so that they are ready for Year 1 without being rushed there.
 
 <hr class="rule"/>

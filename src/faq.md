@@ -47,7 +47,7 @@ We hold to the biblical account and teach it as true. Pupils are also taught the
 
 ### How big are the classes?
 
-Small. Seven classes across the whole school, from Reception to Year 11. <span class="todo">give the typical class size</span>
+Small. Classes run between seven and fifteen pupils, and never more than fifteen.
 
 ### Why are classes mixed-age?
 
@@ -63,7 +63,7 @@ We do not have a sixth form. Pupils move on to sixth form colleges, further educ
 
 ### Where do pupils do PE?
 
-<span class="todo">answer</span>
+On the artificial grass area behind the school. For sports day and larger events we use Braunstone Park.
 
 ## The school day {#day}
 
@@ -73,15 +73,17 @@ The gate opens at 8.30am, the bell goes at 8.50am and registration closes at 9.0
 
 ### Is there wraparound care?
 
-<span class="todo">answer — before and after school provision, if any</span>
+Not at present. The gate opens at 8.30am and the school day ends at 3.15pm.
 
 ### What about lunches?
 
-<span class="todo">answer — packed lunch, hot meals, arrangements</span>
+All pupils bring a packed lunch from home. We are a nut-free school, so please do not send anything containing nuts.
 
 ### How would my child get to school?
 
-We do not run transport. <span class="todo">confirm, and mention where families travel in from</span>
+We do not run transport, and most families drive or walk. The nearest bus stop is on Cort Crescent, served by the First number 18.
+
+Families come from right across Leicester, and some travel considerably further — we have had pupils from Coventry and Northampton. We are the only independent Christian school in Leicestershire, so for some families the journey is part of the choice.
 
 ## Support and behaviour {#support}
 
@@ -101,7 +103,7 @@ Developmentally. A child who has behaved badly has something to learn and our jo
 
 ### Is there a uniform?
 
-Yes. Details and where to buy it are on the uniform page. <span class="todo">link when built</span>
+Yes, and most of it comes from the supermarket. Details are on the [uniform page](/uniform/).
 
 ### Can we look round before applying?
 
