@@ -46,16 +46,15 @@ Regular giving, even in small amounts, is the most useful of all. A school can p
 
 ## Giving by bank transfer {#bank}
 
-If you would rather give directly by bank transfer or set up a standing order, please ask us and we will send you our account details.
+If you would rather give directly by bank transfer, or set up a standing order, our account details are on the giving page along with the other ways to give.
 
 <div class="note">
-<p><b>Request our bank details</b></p>
-<p style="margin-bottom:0">Email <a class="inline" href="mailto:office@ecsleicester.org.uk?subject=Bank%20details%20for%20giving">office@ecsleicester.org.uk</a> or ring the school on <a class="inline" href="tel:01162220792">0116 222 0792</a>.</p>
+<p><b>All the ways to give</b></p>
+<p style="margin-bottom:14px"><a class="btn btn-gold" href="https://linktr.ee/ecsleicester" target="_blank" rel="noopener">See the ways to give →</a></p>
+<p style="margin:0">If anything is unclear, or you would rather have our details directly from us, email <a class="inline" href="mailto:office@ecsleicester.org.uk?subject=Giving%20to%20Emmanuel">office@ecsleicester.org.uk</a> or ring the school on <a class="inline" href="tel:01162220792">0116 222 0792</a>.</p>
 </div>
 
-**Why we do not publish them.** Bank details on a public web page are a well-known route for fraud: a page is copied, an account number is altered by a digit or two, and the gift goes to somebody else entirely. Charities and churches lose money to this every year, and it is the giver who suffers.
-
-Asking us directly takes a moment and means you have our details from us. If you ever receive an email that appears to come from the school with different account details, please ring us before sending anything.
+**One word of caution.** If you ever receive an email that appears to come from the school giving different account details, or asking you to change where you send a standing order, please ring us before sending anything. We will never ask you to change our bank details by email.
 
 ## Gift Aid {#giftaid}
 

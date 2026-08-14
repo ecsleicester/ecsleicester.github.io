@@ -100,10 +100,12 @@ Even modest monthly gifts, multiplied across our wider community of supporters, 
 <div class="note">
 <p><b>Give online</b></p>
 <p style="margin-bottom:14px"><a class="btn btn-gold" href="https://linktr.ee/ecsleicester" target="_blank" rel="noopener">See the ways to give →</a></p>
-<p style="margin:0">If you would rather give by bank transfer or standing order, email <a class="inline" href="mailto:office@ecsleicester.org.uk?subject=Bank%20details%20for%20giving">office@ecsleicester.org.uk</a> or ring the school on <a class="inline" href="tel:01162220792">0116 222 0792</a> and we will send you our account details. We do not publish them online, because copied pages with altered account numbers are a common form of fraud and it is the giver who loses.</p>
+<p style="margin:0">One-off gifts, regular giving and our bank details for standing orders are all there. If anything is unclear, ring the school on <a class="inline" href="tel:01162220792">0116 222 0792</a>.</p>
 </div>
 
 If you are a UK taxpayer we can claim Gift Aid on eligible donations, adding 25p to every pound at no cost to you.
+
+**One word of caution.** If you ever receive an email that appears to come from the school giving different account details, or asking you to change where you send a standing order, please ring us before sending anything. We will never ask you to change our bank details by email.
 
 Any gifts received will support the ongoing charitable work and financial stability of Emmanuel Christian School, and will be used by the charity where they are most needed.
 
