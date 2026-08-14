@@ -60,6 +60,10 @@
       {
         "text": "Examination results",
         "url": "/results/"
+      },
+      {
+        "text": "Private candidates",
+        "url": "/private-candidates/"
       }
     ]
   },
