@@ -33,9 +33,9 @@ That form teacher is the person a parent talks to first, and the person who noti
 
 ## Subjects {#subjects}
 
-Pupils are taught English, mathematics, science, history, geography, religious education, modern foreign languages, art, design and technology, music, drama, computing, physical education and PSHE.
+Pupils are taught English, mathematics, science, history, geography, Biblical Studies, modern foreign languages, art and craft, music, computing, physical education and PSHE. From Year 7 they also take design and technology, and food preparation and nutrition.
 
-<span class="todo">Confirm this list against the 2026/27 timetable, and name the subject teachers</span>
+
 
 ## World religions {#religions}
 

@@ -150,18 +150,21 @@ Birch, Ash and Cedar work towards GCSE. Courses are examined with AQA and Eduqas
 
 <table>
 <caption>GCSE courses offered</caption>
-<thead><tr><th style="width:44%">Subject</th><th style="width:26%">Board</th><th>Notes</th></tr></thead>
-<tbody>
-<tr><td>English Language and English Literature</td><td><span class="todo">confirm</span></td><td>Both taken by all pupils</td></tr>
-<tr><td>Mathematics</td><td>AQA</td><td>Foundation or Higher</td></tr>
-<tr><td>Combined Science</td><td>AQA</td><td><span class="todo">confirm separate sciences</span></td></tr>
-<tr><td>Business</td><td>AQA (8132)</td><td></td></tr>
-<tr><td>Religious Studies</td><td><span class="todo">confirm</span></td><td></td></tr>
-<tr><td>Design and Technology</td><td><span class="todo">confirm</span></td><td></td></tr>
-<tr><td>Physical Education</td><td><span class="todo">confirm</span></td><td></td></tr>
-<tr><td><span class="todo">Remaining options to be listed</span></td><td></td><td></td></tr>
-</tbody>
+  <thead><tr><th style="width:46%">Subject</th><th style="width:24%">Board</th><th>&nbsp;</th></tr></thead>
+  <tbody>
+    <tr><td class="num">English Language</td><td>AQA or Eduqas</td><td>Taken by all pupils</td></tr>
+    <tr><td class="num">English Literature</td><td>AQA or Eduqas</td><td>Taken by all pupils</td></tr>
+    <tr><td class="num">Mathematics</td><td>AQA</td><td>Foundation or Higher</td></tr>
+    <tr><td class="num">Combined Science: Trilogy</td><td>AQA</td><td>Double award</td></tr>
+    <tr><td class="num">Business Studies</td><td>AQA</td><td>Option</td></tr>
+    <tr><td class="num">Design and Technology</td><td><span class="todo">confirm board</span></td><td>Option</td></tr>
+    <tr><td class="num">Food Preparation and Nutrition</td><td><span class="todo">confirm board</span></td><td>Option</td></tr>
+    <tr><td class="num">Physical Education</td><td><span class="todo">confirm board</span></td><td>Option</td></tr>
+    <tr><td class="num">Religious Studies</td><td><span class="todo">confirm board</span></td><td>Option</td></tr>
+  </tbody>
 </table>
+
+Option subjects run subject to numbers. Our cohorts are small, and we would rather be straight about that than list a subject we cannot staff in a given year.
 
 [See our most recent examination results →](/results/)
 
