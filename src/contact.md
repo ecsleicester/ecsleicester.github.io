@@ -47,7 +47,7 @@ nextprev: |
 <caption>The right person first time</caption>
 <thead><tr><th style="width:44%">If it is about…</th><th>Contact</th></tr></thead>
 <tbody>
-<tr><td>Your child’s work or wellbeing</td><td>Their class teacher or form tutor</td></tr>
+<tr><td>Your child’s work or wellbeing</td><td>Their class teacher</td></tr>
 <tr><td>Absence, leave or kit orders</td><td>The <a class="inline" href="/parents/#hub">Parent Hub</a></td></tr>
 <tr><td>Additional needs</td><td>Libby Harris, SENDCo</td></tr>
 <tr><td>Examinations</td><td>Libby Harris, Examinations Officer</td></tr>

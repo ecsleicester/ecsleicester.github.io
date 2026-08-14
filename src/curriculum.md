@@ -138,7 +138,7 @@ Mathematics follows a mastery approach built on the White Rose sequence, adapted
 
 ## Middle School — Oak and Maple {#middle}
 
-Oak and Maple are where the shift happens: from one teacher who knows a child in every subject, to several teachers who each know them in one. We do this gradually, and the class keeps a form teacher who holds the whole picture.
+Oak and Maple are where the shift happens: from one teacher who knows a child in every subject, to several teachers who each know them in one. We do this gradually, and every class keeps a teacher who holds the whole picture of that child.
 
 Pupils are taught English, mathematics, science, history, geography, religious education, modern foreign languages, art, design and technology, music, drama, computing, physical education and PSHE. World religions are taught from Year 7 upwards: our pupils should be able to give a fair account of what a Muslim or a Hindu actually believes, not a caricature of it.
 

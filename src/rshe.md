@@ -122,7 +122,7 @@ We would always rather talk first. In most cases a conversation about what is ac
 
 ## Who teaches it {#who}
 
-*Growing in Christ* is taught by class teachers and form tutors who already know the pupils, not by visiting speakers. A child is far more likely to disclose something to an adult they trust, and that adult is far better placed to notice when a lesson has landed badly.
+*Growing in Christ* is taught by class teachers who already know the pupils, not by visiting speakers. A child is far more likely to disclose something to an adult they trust, and that adult is far better placed to notice when a lesson has landed badly.
 
 Every unit carries a safeguarding note and a prompt to the Designated Safeguarding Lead. If something a pupil says raises a concern, it goes to the DSL the same day.
 

@@ -27,9 +27,9 @@ nextprev: |
 
 ## One teacher becomes several {#shift}
 
-<p class="lead">Oak takes Years 5 and 6, Maple Years 7 and 8. This is where the change happens. A pupil moves from one teacher who knows them in every subject to several teachers who each know them in one. We do it gradually, and the class keeps a form teacher who holds the whole picture.</p>
+<p class="lead">Oak takes Years 5 and 6, Maple Years 7 and 8. This is where the change happens. A pupil moves from one teacher who knows them in every subject to several teachers who each know them in one. We do it gradually, and every class keeps a teacher who holds the whole picture of that child.</p>
 
-That form teacher is the person a parent talks to first, and the person who notices when a pupil is fine in three subjects and struggling in a fourth.
+That teacher is the person a parent talks to first, and the person who notices when a pupil is fine in three subjects and struggling in a fourth. In a school this size that is not a formal system — it is simply how a small staff team works.
 
 ## Subjects {#subjects}
 

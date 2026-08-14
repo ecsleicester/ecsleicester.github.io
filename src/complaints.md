@@ -47,14 +47,14 @@ Complaints are handled in a spirit of forgiveness and reconciliation. That is no
 
 ## Stage one — informal {#stage1}
 
-**Heard by:** your child’s Form Teacher, or the Head of Lower, Middle or Upper School
+**Heard by:** your child’s class teacher, or the Head of Lower, Middle or Upper School
 **Response:** usually within 10 working days
 
 Most concerns are resolved here, and they can be raised in person, by email or by letter.
 
-- Contact your child’s Form Teacher first. In many cases the matter is settled straight away.
-- If the Form Teacher cannot resolve it alone, they will consult the relevant Head of School.
-- A complaint made directly to a Head of School is normally referred back to the Form Teacher, unless it would be inappropriate for them to handle it.
+- Contact your child’s class teacher first. In many cases the matter is settled straight away.
+- If the class teacher cannot resolve it alone, they will consult the relevant Head of School.
+- A complaint made directly to a Head of School is normally referred back to the class teacher, unless it would be inappropriate for them to handle it.
 - The Head Teacher will be told about the complaint and any action taken, whatever the outcome.
 - If it cannot be resolved, you will be advised to move to stage two.
 

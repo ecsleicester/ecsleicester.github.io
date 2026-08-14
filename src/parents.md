@@ -68,7 +68,7 @@ Children arriving after 9.00am should come to the office so that we know they ar
 
 ## Talking to us {#talk}
 
-The quickest route is almost always your child’s class teacher or form tutor. For anything urgent, ring the school — do not rely on email being seen the same day.
+The quickest route is almost always your child’s class teacher. For anything urgent, ring the school — do not rely on email being seen the same day.
 
 - Telephone: [0116 222 0792](tel:01162220792)
 - Email: [office@ecsleicester.org.uk](mailto:office@ecsleicester.org.uk)
