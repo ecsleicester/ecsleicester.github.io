@@ -30,10 +30,7 @@ nextprev: |
 <p>A news page with nothing since last March does more damage than no news page at all — it is the first thing that makes a website look abandoned. If you cannot commit to posting monthly, replace this with a single <em>Life at Emmanuel</em> gallery page that never looks out of date.</p>
 </div>
 
-<div class="docs">
-<a class="doc" href="#"><div><b><span class="todo">Post title</span></b><span><span class="todo">date</span></span></div></a>
-<a class="doc" href="#"><div><b><span class="todo">Post title</span></b><span><span class="todo">date</span></span></div></a>
-<a class="doc" href="#"><div><b><span class="todo">Post title</span></b><span><span class="todo">date</span></span></div></a>
+</a>
 </div>
 
 ## Dates for the diary {#dates}

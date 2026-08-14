@@ -103,9 +103,9 @@ You should never be surprised by what is in a report. If we are worried about yo
 ## Policies and documents {#documents}
 
 <div class="docs">
-<a class="doc" href="#"><div><b>SEND policy</b><span>PDF · reviewed <span class="todo">date</span></span></div></a>
-<a class="doc" href="#"><div><b>Accessibility plan</b><span>PDF · <span class="todo">date</span></span></div></a>
-<a class="doc" href="#"><div><b>Equal opportunities policy</b><span>PDF · <span class="todo">date</span></span></div></a>
+<a class="doc" href="/assets/policies/policy-for-send.pdf"><div><b>SEND policy</b><span>PDF &middot; reviewed September 2025</span></div></a>
+<a class="doc" href="/assets/policies/accessibility-plan.pdf"><div><b>Accessibility plan</b><span>PDF &middot; reviewed September 2023</span></div></a>
+<a class="doc" href="/assets/policies/equal-opportunity-policy.pdf"><div><b>Equal opportunities policy</b><span>PDF &middot; reviewed August 2024</span></div></a>
 <a class="doc" href="/complaints/"><div><b>Complaints procedure</b><span>If you are unhappy with provision</span></div></a>
 </div>
 

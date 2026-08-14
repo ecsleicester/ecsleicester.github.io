@@ -90,8 +90,8 @@ Children joining in the reception year settle in gradually rather than all at on
 <div class="docs">
 <a class="doc" href="/fees/"><div><b>Fees</b><span>What it costs and what is included</span></div></a>
 <a class="doc" href="/faq/"><div><b>Questions parents ask</b><span>The honest answers</span></div></a>
-<a class="doc" href="#"><div><b>Admissions policy</b><span>PDF · reviewed <span class="todo">date</span></span></div></a>
-<a class="doc" href="#"><div><b>Terms and conditions of admission</b><span>PDF · <span class="todo">date</span></span></div></a>
+<a class="doc" href="/assets/policies/admissions.pdf"><div><b>Admissions policy</b><span>PDF &middot; reviewed June 2026</span></div></a>
+<a class="doc" href="/assets/policies/fees-terms-and-conditions.pdf"><div><b>Fees: terms and conditions</b><span>PDF &middot; effective August 2026</span></div></a>
 </div>
 
 <hr class="rule"/>

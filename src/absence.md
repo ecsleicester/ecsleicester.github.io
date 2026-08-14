@@ -86,7 +86,12 @@ We can administer prescribed medication where a form has been completed and the 
 
 Trained first aiders are on site throughout the school day. If your child is hurt beyond a minor scrape you will be told the same day, not at the end of the week.
 
-<span class="todo">Name the first aiders and link the first aid policy</span>
+Our trained first aiders are Sarah Seeds, George Sutton, Mia Seeds and Ruth Allen.
+
+<div class="docs">
+<a class="doc" href="/assets/policies/first-aid-policy.pdf"><div><b>First aid policy</b><span>PDF &middot; reviewed August 2024</span></div></a>
+<a class="doc" href="/assets/policies/policy-for-supporting-pupils-at-school-with-medical-conditions.pdf"><div><b>Supporting pupils with medical conditions</b><span>PDF &middot; reviewed September 2024</span></div></a>
+</div>
 
 ## Allergies {#allergies}
 

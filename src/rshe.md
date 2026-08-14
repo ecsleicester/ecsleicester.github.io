@@ -105,10 +105,10 @@ The policy is reviewed in consultation with parents. You do not have to wait for
 ## Policies and documents {#documents}
 
 <div class="docs">
-<a class="doc" href="#"><div><b>RSHE policy</b><span>PDF · reviewed <span class="todo">date</span></span></div></a>
-<a class="doc" href="#"><div><b>Growing in Christ programme outline</b><span>PDF · <span class="todo">date</span></span></div></a>
-<a class="doc" href="#"><div><b>Safeguarding and child protection policy</b><span>PDF · <span class="todo">date</span></span></div></a>
-<a class="doc" href="#"><div><b>Behaviour and anti-bullying policy</b><span>PDF · <span class="todo">date</span></span></div></a>
+<a class="doc" href="/assets/policies/ecs-rhe-policy.pdf"><div><b>Relationships and health education policy</b><span>PDF &middot; reviewed May 2025</span></div></a>
+<a class="doc" href="/curriculum/"><div><b>Curriculum overview</b><span>How the programme sits in the wider curriculum</span></div></a>
+<a class="doc" href="/assets/policies/safeguarding-and-child-protection-policy.pdf"><div><b>Safeguarding and child protection</b><span>PDF &middot; reviewed September 2025</span></div></a>
+<a class="doc" href="/assets/policies/behaviour-policy.pdf"><div><b>Behaviour policy</b><span>PDF &middot; reviewed August 2025</span></div></a>
 </div>
 
 <hr class="rule"/>

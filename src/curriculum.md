@@ -12,6 +12,8 @@ contents:
     text: "What we are trying to do"
   - id: framework
     text: "Christ in All Things"
+  - id: teaching
+    text: "How we teach"
   - id: structure
     text: "How we are organised"
   - id: lower
@@ -50,11 +52,61 @@ Pupils here are taught the same subjects and sit the same GCSEs as pupils anywhe
 
 ## Christ in All Things {#framework}
 
-*Christ in All Things* is the framework that shapes our curriculum across the whole school. It runs on a simple discipline: a connection between a subject and the Christian faith is only worth making if it would survive the scrutiny of a thoughtful sixteen-year-old. Forced analogies do more harm than good, and pupils see through them immediately.
+*Christ in All Things* is the framework that shapes our curriculum across the whole school. It takes its name from Colossians 1:17 — that in him all things hold together.
 
-In practice this looks like six threads running through the subjects — creation and order, image and dignity, brokenness and repair, stewardship, truth and honesty, and hope. A geography lesson on flooding touches stewardship without being interrupted by it. A design lesson on failure touches repair. The subject stays the subject.
+Most schools with a Christian ethos have Christian assemblies, Christian values and a Christian RE department, and a curriculum that could belong to any school in the country. We are building something different: mathematics taught under the conviction that the universe is ordered because a faithful God ordered it; history taught within the conviction that history is purposeful; English taught by people who believe words carry truth because God speaks.
 
-The framework is being introduced in phases across the school. Some subjects are fully rebuilt around it, others carry it more lightly at this stage, and we would rather tell you that plainly than claim a finished job.
+The faith does not sit beside the subjects. It sits inside them.
+
+### The six threads
+
+Six biblical themes run through every subject, giving the whole curriculum one grammar.
+
+<table>
+  <caption>The six threads</caption>
+  <thead><tr><th style="width:30%">Thread</th><th>The conviction</th></tr></thead>
+  <tbody>
+    <tr><td class="num">Creation and order</td><td>The universe is the ordered, intelligible work of a faithful Creator. Study is discovery, not invention — when a pupil finds a pattern, they are finding something that was already there.</td></tr>
+    <tr><td class="num">Image and creativity</td><td>Every person bears the image of God: rational, moral, creative, relational. That is why pupils can reason, make, judge and belong.</td></tr>
+    <tr><td class="num">Fall and discernment</td><td>Creation and culture are marred. Pupils learn to test everything — sources, claims, images, persuasion — without cynicism and without naïvety.</td></tr>
+    <tr><td class="num">Redemption and hope</td><td>History is held within God's redemptive story. Failure is not final and broken things can be restored, which is why we can be honest about evil in history and hopeful in the same lesson.</td></tr>
+    <tr><td class="num">Wisdom and truth</td><td>Truth exists and can be known. Accuracy is a moral quality, not only an academic one.</td></tr>
+    <tr><td class="num">Stewardship and service</td><td>Gifts, money, creation and skill are held in trust for God and neighbour. Learning is for serving, not only for succeeding.</td></tr>
+  </tbody>
+</table>
+
+### The rule that governs it
+
+**No forced analogies.** Every faith link must survive the scrutiny of a thoughtful sixteen-year-old. If a connection would make a sharp Year 11 roll their eyes, we do not use it. Stapling a verse to a worksheet is exactly what this framework replaces.
+
+Three things it never means:
+
+- **Never reduced rigour.** Statutory content and examination specifications are taught fully and accurately, including content we interpret differently. That is taught properly first, and then engaged with from conviction.
+- **Never assessing faith.** We assess knowledge, understanding and application — never a pupil's beliefs or agreement with the school's convictions. A pupil who believes differently can achieve the highest outcomes here.
+- **Never conviction without grace.** Where our beliefs differ from prevailing views, pupils learn our position clearly, learn what the law and the discipline actually say, and learn to engage other views with gentleness and respect.
+
+### Built over three years
+
+The framework is being introduced in phases, and we would rather tell you that plainly than claim a finished job. It launched in 2026/27, with mathematics first and a written rationale for every subject. Further subjects follow through 2027/28, and the whole curriculum is reviewed against the six threads in 2028/29.
+
+Nothing is withdrawn before its replacement is ready.
+
+## How we teach {#teaching}
+
+Alongside what we teach, we are clear about what good teaching looks like here. Six principles guide every lesson observation and every conversation about teaching in this school.
+
+<table>
+  <caption>Our teaching and learning principles</caption>
+  <thead><tr><th style="width:32%">Principle</th><th>&nbsp;</th></tr></thead>
+  <tbody>
+    <tr><td class="num">Explain clearly</td><td>Content is accurate, logically ordered, and paced so pupils can follow. New material is modelled and broken into steps. When something is not understood, the teacher finds another way to explain it.</td></tr>
+    <tr><td class="num">Check understanding</td><td>Teachers find out what pupils actually know, not what they say they know. Wrong answers are treated as useful information. What the teacher discovers changes what happens next.</td></tr>
+    <tr><td class="num">Adapt teaching</td><td>The teacher knows who needs more support and who needs more challenge, and does something about it. Nobody is invisible.</td></tr>
+    <tr><td class="num">Build relationships</td><td>The classroom is safe, warm and respectful. Pupils feel known — their names, their needs, their lives — and can ask questions or make mistakes without anxiety.</td></tr>
+    <tr><td class="num">Maintain high expectations</td><td>Every pupil is expected to think, try, and produce their best work. We do not accept work below a pupil's capability.</td></tr>
+    <tr><td class="num">Integrate faith naturally</td><td>Faith is woven in — not forced, not absent, and not saved only for RE. Sometimes explicit, sometimes simply in how a teacher speaks to a struggling child. Both count.</td></tr>
+  </tbody>
+</table>
 
 ## How the school is organised {#structure}
 
@@ -157,9 +209,9 @@ Trips, sport, music, and the wider life of the school are part of the curriculum
 
 <div class="docs">
 <a class="doc" href="/policies/"><div><b>Curriculum policy</b><span>PDF · reviewed <span class="todo">date</span></span></div></a>
-<a class="doc" href="#"><div><b>Christ in All Things framework</b><span>PDF · <span class="todo">date</span></span></div></a>
-<a class="doc" href="#"><div><b>RSHE policy</b><span>PDF · <span class="todo">date</span></span></div></a>
-<a class="doc" href="#"><div><b>SEND policy</b><span>PDF · <span class="todo">date</span></span></div></a>
+<a class="doc" href="/assets/policies/assessment-policy.pdf"><div><b>Assessment policy</b><span>PDF &middot; reviewed August 2025</span></div></a>
+<a class="doc" href="/assets/policies/ecs-rhe-policy.pdf"><div><b>Relationships and health education</b><span>PDF &middot; reviewed May 2025</span></div></a>
+<a class="doc" href="/assets/policies/policy-for-send.pdf"><div><b>SEND policy</b><span>PDF &middot; reviewed September 2025</span></div></a>
 </div>
 
 <hr class="rule"/>
