@@ -1,12 +1,11 @@
 ---
 layout: page.njk
 title: "Growing in Christ: RSHE"
-description: "Relationships, sex and health education at Emmanuel Christian School, including the right to withdraw."
+description: "Relationships, sex and health education at Emmanuel Christian School, Leicester: what is taught, when, and the right to withdraw."
 permalink: /rshe/
-crumb: "<a href='/'>Home</a>  ›  <a href='/curriculum/'>Curriculum</a>  ›  RSHE"
+crumb: "<a href='/'>Home</a> &nbsp;&rsaquo;&nbsp; <a href='/curriculum/'>Curriculum</a> &nbsp;&rsaquo;&nbsp; RSHE"
 heading: "Growing in Christ"
 standfirst: "Our relationships, sex and health education programme. What is taught, when, and how to withdraw your child from sex education if you wish to."
-draft: "The seven strand names and the year-by-year content need checking against the Growing in Christ programme document."
 contents:
   - id: why
     text: "Why we teach it"
@@ -17,7 +16,7 @@ contents:
   - id: when
     text: "What is taught when"
   - id: withdraw
-    text: "Right to withdraw"
+    text: "The right to withdraw"
   - id: who
     text: "Who teaches it"
   - id: send
@@ -37,11 +36,13 @@ nextprev: |
 
 <p class="lead">Children will learn about relationships, their bodies and their emotions whether or not adults teach them. The question is only whether they learn it from people who love them and know them, or from a phone.</p>
 
-Relationships education, relationships and sex education, and health education are compulsory in all schools. From 1 September 2026 we teach to the current statutory guidance in full. But we would teach this anyway, because a child who does not understand what a good friendship looks like, or why their body is changing, or what to do when they are frightened, is a child left unprotected.
+Relationships education, relationships and sex education, and health education are compulsory in all schools. Our programme meets the Department for Education's statutory guidance of July 2025, which came into force on 1 September 2026 — the same date *Growing in Christ* launched.
 
-## How we approach it {#approach}
+But we would teach this anyway. A child who does not understand what a good friendship looks like, or why their body is changing, or what to do when they are frightened, is a child left unprotected.
 
-Our programme is called *Growing in Christ*. It is taught from the biblical account of what people are: made in God’s image, made for relationship, made with bodies that are good, and living in a world where relationships go wrong and can be put right.
+## Our approach {#approach}
+
+*Growing in Christ* is taught from the biblical account of what people are: made in God's image, made for relationship, made with bodies that are good, and living in a world where relationships go wrong and can be put right.
 
 That framing is not a way of avoiding the difficult parts. Pupils are taught what the law says, what they are entitled to, and what is happening in the wider culture, accurately and without caricature. We want pupils who can give a fair account of a view they do not hold. Teaching them a straw man would fail them twice: once as learners, and once as Christians.
 
@@ -50,65 +51,102 @@ That framing is not a way of avoiding the difficult parts. Pupils are taught wha
 
 Content is always age appropriate. A six-year-old is taught about kindness, families and safe adults. Nothing is brought forward because it is in the news.
 
+Where our convictions differ from prevailing views — on marriage, for example — pupils learn the school's position clearly, learn the legal facts accurately, and learn to engage other views with gentleness and respect. Families whose lives look different from ours are treated with respect and kindness. Both of those are required of us, and both are right.
+
 ## The seven strands {#strands}
 
 The programme runs on seven strands, each revisited at every stage with increasing depth rather than covered once and left behind.
 
 <table>
-<caption>Programme strands <span class="todo">confirm names against the programme document</span></caption>
-<thead><tr><th style="width:34%">Strand</th><th>What it covers</th></tr></thead>
-<tbody>
-<tr><td class="num">Families and belonging</td><td>Families of different shapes, the commitment of marriage, and where a child can go when home is hard.</td></tr>
-<tr><td class="num">Friendship and kindness</td><td>Making and keeping friends, falling out and repairing, loneliness, and how to be a good friend to someone difficult.</td></tr>
-<tr><td class="num">Respect and difference</td><td>Treating every person as image-bearing, including people whose beliefs and lives differ from ours. Bullying, prejudice and how to respond.</td></tr>
-<tr><td class="num">Being safe</td><td>Consent, boundaries, secrets that should be told, online safety, exploitation, and how to ask for help.</td></tr>
-<tr><td class="num">Bodies and growing up</td><td>Puberty taught before it arrives, hygiene, and the goodness of the body.</td></tr>
-<tr><td class="num">Relationships and sex</td><td>Secondary phase. Sex within the biblical account, what the law says, contraception and sexual health, pornography, and pressure.</td></tr>
-<tr><td class="num">Mind and health</td><td>Emotions, mental wellbeing, sleep, food, exercise, substances, and knowing when to ask an adult.</td></tr>
-</tbody>
+  <caption>The seven strands</caption>
+  <thead><tr><th style="width:34%">Strand</th><th>What it covers</th></tr></thead>
+  <tbody>
+    <tr><td class="num">Identity and belonging</td><td>Who a person is, and whose they are. Made in God's image, and what that means for how we see ourselves and everybody else.</td></tr>
+    <tr><td class="num">Character and wisdom</td><td>How to live well: honesty, perseverance, forgiveness, and the skill of making good decisions under pressure.</td></tr>
+    <tr><td class="num">Relationships, family and sexuality</td><td>Families, friendship, marriage and commitment, consent and boundaries, and — in the secondary years — sex and sexual health.</td></tr>
+    <tr><td class="num">Wellbeing</td><td>Emotions, mental health, sleep, food, exercise and substances. Prayer and honest lament taught alongside evidence-based strategies.</td></tr>
+    <tr><td class="num">Safety and digital life</td><td>Being safe in the world and online: personal safety, exploitation, online harms, misinformation, and knowing how to ask for help.</td></tr>
+    <tr><td class="num">Stewardship, money and work</td><td>Money, possessions, contentment, financial harms, and work as vocation rather than only income.</td></tr>
+    <tr><td class="num">Community, citizenship and justice</td><td>Living alongside people who differ from us, the law, prejudice, and the responsibility to speak up.</td></tr>
+  </tbody>
 </table>
 
 ## What is taught when {#when}
 
-<span class="todo">Insert the year-by-year overview from the Growing in Christ programme, so parents can see exactly what is taught at each stage</span>
+The programme runs across seven phases, from Reception to Year 11, on a rolling cycle that suits our mixed-age classes.
 
-The full programme outline is published below. If you would like to see the actual teaching materials, ask and we will show you them. We have nothing we would want to hide from a parent.
+<table>
+  <caption>Phases</caption>
+  <thead><tr><th style="width:26%">Phase</th><th style="width:24%">Year groups</th><th>&nbsp;</th></tr></thead>
+  <tbody>
+    <tr><td class="num">EYFS</td><td>Reception</td><td>Planned against the EYFS framework through provision, story and routine</td></tr>
+    <tr><td class="num">Phase 1</td><td>Years 1 and 2</td><td>Families, friendship, big feelings, being safe</td></tr>
+    <tr><td class="num">Phase 2</td><td>Years 3 and 4</td><td>Belonging, forgiveness, kindness online, health habits</td></tr>
+    <tr><td class="num">Phase 3</td><td>Years 5 and 6</td><td>Puberty, boundaries and consent, prejudice and standing up, first aid</td></tr>
+    <tr><td class="num">Phase 4</td><td>Years 7 and 8</td><td>Identity, healthy and unhealthy relationships, digital life, money</td></tr>
+    <tr><td class="num">Phase 5</td><td>Year 9</td><td>Coercion and control, exploitation, substances, financial harm</td></tr>
+    <tr><td class="num">Phase 6</td><td>Years 10 and 11</td><td>Marriage, singleness and commitment; sex, health and wisdom; money for adult life; first aid for life</td></tr>
+  </tbody>
+</table>
 
-## Sex education and the right to withdraw {#withdraw}
+Puberty is taught in Phase 3, to the older cohort separately, and parents are told in advance.
 
-Parents have the right to request that their child is withdrawn from sex education within RSHE. That right does not extend to relationships education or to health education, and it does not extend to the parts of the science curriculum that cover reproduction.
+If you would like to see the actual teaching materials for any unit, ask and we will show them to you. We have nothing we would want to hide from a parent.
 
-- Requests should be made in writing to the Head Teacher.
-- We will meet with you to talk it through and to make sure you know what would be missed.
+## The right to withdraw {#withdraw}
+
+Parents have the right to request that their child is withdrawn from **sex education**. That right does not extend to relationships education, to health education, or to the science curriculum.
+
+### What counts as sex education here
+
+At Emmanuel, the sex education from which a parent may withdraw their child is the Phase 6 unit **Sex, health and wisdom** — the teaching on intimate sexual relationships, contraception and sexual health.
+
+Everything else is not withdrawable, including:
+
+- Relationships education throughout the primary years
+- Relationships education in the secondary years, other than the content named above
+- Health education, **including puberty**
+- Reproduction as taught within the science curriculum
+
+We do not teach sex education in the primary phases beyond the statutory curriculum.
+
+### How to request a withdrawal
+
+- Write to the Head Teacher.
+- We will meet you to talk it through and make sure you know exactly what would be missed.
 - The request will be granted, other than in exceptional circumstances, up until three terms before your child turns sixteen.
-- After that point, a pupil who wishes to receive sex education is entitled to do so.
-- Withdrawn pupils are given purposeful work elsewhere in the school.
+- After that point, a pupil who wishes to receive sex education is entitled to do so, and we would tell you that this had happened.
+- A withdrawn pupil is given purposeful work elsewhere in the school.
 
 We would always rather talk first. In most cases a conversation about what is actually taught settles the concern.
 
 ## Who teaches it {#who}
 
-RSHE is taught by class teachers and form tutors who already know the pupils, not by visiting speakers. A child is far more likely to disclose something to an adult they trust, and the adult is far better placed to notice when a lesson has landed badly.
+*Growing in Christ* is taught by class teachers and form tutors who already know the pupils, not by visiting speakers. A child is far more likely to disclose something to an adult they trust, and that adult is far better placed to notice when a lesson has landed badly.
 
-Staff teaching the programme receive training, and safeguarding procedures apply throughout: if something a pupil says raises a concern, it is passed to the Designated Safeguarding Lead the same day.
+Every unit carries a safeguarding note and a prompt to the Designated Safeguarding Lead. If something a pupil says raises a concern, it goes to the DSL the same day.
+
+Some topics need particular care — suicide prevention and self-harm awareness among them — and staff receive specialist-informed training before teaching them.
 
 ## Pupils with additional needs {#send}
 
-Content is adapted so that pupils with special educational needs receive the same protection and understanding as everyone else. Pupils with additional needs can be more vulnerable to exploitation, not less, so withdrawing them from this teaching would leave them at greater risk.
+Content is adapted so that pupils with special educational needs receive the same protection and understanding as everyone else.
+
+Pupils with additional needs can be more vulnerable to exploitation, not less. Withdrawing them from this teaching would leave them at greater risk, not less.
 
 [More about SEND and support →](/send/)
 
 ## Working with parents {#consult}
 
-The policy is reviewed in consultation with parents. You do not have to wait for a review to raise something — if you are uneasy about anything in the programme, tell us and we will talk about it.
+Our RSE policy is reviewed in consultation with parents. A consultation is taking place during the autumn term of 2026, ahead of the trustees adopting the revised policy.
+
+You do not have to wait for a review to raise something. If you are uneasy about anything in the programme, tell us and we will talk about it. Curriculum content is available to view on request, and we hold an information session each year.
 
 ## Policies and documents {#documents}
 
 <div class="docs">
-<a class="doc" href="/assets/policies/ecs-rhe-policy.pdf"><div><b>Relationships and health education policy</b><span>PDF &middot; reviewed May 2025</span></div></a>
+<a class="doc" href="/assets/policies/ecs-rhe-policy.pdf"><div><b>Relationships and sex education policy</b><span>PDF &middot; under review autumn 2026</span></div></a>
 <a class="doc" href="/curriculum/"><div><b>Curriculum overview</b><span>How the programme sits in the wider curriculum</span></div></a>
 <a class="doc" href="/assets/policies/safeguarding-and-child-protection-policy.pdf"><div><b>Safeguarding and child protection</b><span>PDF &middot; reviewed September 2025</span></div></a>
 <a class="doc" href="/assets/policies/behaviour-policy.pdf"><div><b>Behaviour policy</b><span>PDF &middot; reviewed August 2025</span></div></a>
 </div>
-
-<hr class="rule"/>
