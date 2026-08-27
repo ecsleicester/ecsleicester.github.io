@@ -46,49 +46,49 @@ Many centres have stopped taking private candidates altogether. We think that is
 
 ## Subjects and fees {#subjects}
 
-The fees below apply to private candidates. Pupils at the school do not pay them — their entries are covered by the GCSE levy included in school fees.
-
 We are registered with **AQA** and **Eduqas** (part of WJEC), and we can facilitate most examinations from either board, provided the specification permits private candidates.
 
-The fees below are those we charged for the most recent summer series. They are a guide — we will confirm exact costs when you enquire, as awarding body charges change each year.
+The fees below apply to private candidates. Pupils at the school do not pay them.
 
 <table>
-  <caption>Examination fees — most recent summer series</caption>
-  <thead><tr><th style="width:44%">Subject</th><th style="width:28%">Board</th><th>Fee</th></tr></thead>
+  <caption>Examination fees per subject</caption>
+  <thead><tr><th style="width:52%">Subject</th><th style="width:24%">Board</th><th>Fee</th></tr></thead>
   <tbody>
-    <tr><td class="num">English Language</td><td>AQA or Eduqas</td><td>£110</td></tr>
-    <tr><td class="num">English Literature</td><td>AQA or Eduqas</td><td>£110</td></tr>
-    <tr><td class="num">Mathematics</td><td>AQA</td><td>£110</td></tr>
-    <tr><td class="num">Combined Science: Trilogy</td><td>AQA</td><td>£200</td></tr>
-    <tr><td class="num">Biology (8461)</td><td>AQA</td><td>£120</td></tr>
-    <tr><td class="num">Chemistry (8462)</td><td>AQA</td><td>£120</td></tr>
-    <tr><td class="num">Physics (8463)</td><td>AQA</td><td>£120</td></tr>
-    <tr><td class="num">Business</td><td>AQA</td><td>£110</td></tr>
-    <tr><td class="num">History</td><td>AQA</td><td>£110</td></tr>
-    <tr><td class="num">Computer Science</td><td>AQA</td><td>£110</td></tr>
-    <tr><td class="num">French (8652)</td><td>AQA</td><td>£150</td></tr>
-    <tr><td class="num">Psychology (8182)</td><td>AQA</td><td>£150</td></tr>
+    <tr><td class="num">English Language</td><td>AQA or Eduqas</td><td>£120</td></tr>
+    <tr><td class="num">English Literature</td><td>AQA or Eduqas</td><td>£120</td></tr>
+    <tr><td class="num">Mathematics</td><td>AQA</td><td>£120</td></tr>
+    <tr><td class="num">Business</td><td>AQA</td><td>£120</td></tr>
+    <tr><td class="num">Computer Science</td><td>AQA</td><td>£120</td></tr>
+    <tr><td class="num">Psychology</td><td>AQA</td><td>£120</td></tr>
+    <tr><td class="num">Biology</td><td>AQA</td><td>£150</td></tr>
+    <tr><td class="num">Chemistry</td><td>AQA</td><td>£150</td></tr>
+    <tr><td class="num">Physics</td><td>AQA</td><td>£150</td></tr>
+    <tr><td class="num">History</td><td>AQA</td><td>£150</td></tr>
+    <tr><td class="num">Combined Science: Trilogy</td><td>AQA</td><td>£220</td></tr>
+    <tr><td class="num">French</td><td>AQA</td><td>£220</td></tr>
   </tbody>
 </table>
 
-Fees vary by subject because they cover the awarding body charge and the staffing needed to run the examination — a science paper costs us more to invigilate than an English one.
+Fees vary by subject because they cover the awarding body charge and the staffing needed to run the examination. A double-award science or a language with several components costs us considerably more to run than a single written paper.
 
 **If the subject you need is not listed, ask.** We can facilitate most AQA and Eduqas examinations and will do our utmost to help.
 
 ### Administration fee
 
-There is an administration charge of **£200 per candidate**, payable on top of the individual examination fees. That covers registration, entry processing, your timetable, and the identification checks the awarding bodies require.
+There is an administration charge of **£120 per candidate**, payable on top of the individual examination fees. That covers registration, entry processing, your timetable, and the identification checks the awarding bodies require.
 
 <table>
   <caption>A worked example — two subjects</caption>
   <thead><tr><th style="width:62%">&nbsp;</th><th>&nbsp;</th></tr></thead>
   <tbody>
-    <tr><td class="num">English Language</td><td>£110</td></tr>
-    <tr><td class="num">Mathematics</td><td>£110</td></tr>
-    <tr><td class="num">Administration fee</td><td>£200</td></tr>
-    <tr><td class="num"><b>Total</b></td><td><b>£420</b></td></tr>
+    <tr><td class="num">English Language</td><td>£120</td></tr>
+    <tr><td class="num">Mathematics</td><td>£120</td></tr>
+    <tr><td class="num">Administration fee</td><td>£120</td></tr>
+    <tr><td class="num"><b>Total</b></td><td><b>£360</b></td></tr>
   </tbody>
 </table>
+
+The administration fee is charged once, not per subject.
 
 ## What we cannot offer {#nea}
 
@@ -104,7 +104,7 @@ We can arrange most access arrangements and reasonable adjustments — extra tim
 
 **Tell us early.** Access arrangements have to be applied for and evidenced within the awarding bodies' own deadlines, and we cannot put them in place at short notice. There is space on the application form to tell us what you need.
 
-Access arrangements carry an additional administration fee of **£200**, plus the cost of any testing or external agencies required.
+Access arrangements carry an additional administration fee of **£120**, plus the cost of any testing or external agencies required.
 
 ## Deadlines and late fees {#deadlines}
 
@@ -155,7 +155,7 @@ None of that is meant to sound forbidding. In practice, candidates arrive, sit t
 <div class="note">
 <p><b>Examinations office</b></p>
 <p style="margin-bottom:12px">Libby Harris, Examinations Officer</p>
-<p style="margin-bottom:12px"><a class="btn btn-gold" href="mailto:exams@ecsleicester.org.uk?subject=Private%20candidate%20enquiry">exams@ecsleicester.org.uk</a></p>
+<p style="margin-bottom:12px"><a class="btn btn-gold" href="mailto:l.harris@ecsleicester.org.uk?subject=Private%20candidate%20enquiry">l.harris@ecsleicester.org.uk</a></p>
 <p style="margin:0">Or ring the school on <a class="inline" href="tel:01162220792">0116 222 0792</a>.</p>
 </div>
 
