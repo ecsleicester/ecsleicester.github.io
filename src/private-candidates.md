@@ -94,7 +94,9 @@ The administration fee is charged once, not per subject.
 
 **We cannot enter candidates for subjects requiring non-examined assessment.**
 
-Where a specification includes coursework, a spoken language endorsement, a practical portfolio or any other work assessed outside the examination hall, we are unable to take a private entry. That work has to be supervised and authenticated over an extended period by a centre that has taught the course.
+Where a specification includes coursework, a practical portfolio or any other work assessed outside the examination hall, we are unable to take a private entry. That work has to be supervised and authenticated over an extended period by a centre that has taught the course.
+
+**Spoken endorsements are an exception.** We can conduct these, both the GCSE English Language spoken language endorsement and the speaking assessment in a modern foreign language. Many centres will not, which is why English Language and French both appear on the list above.
 
 This is the point on which private candidates are most often caught out, so it is worth checking your chosen specification carefully before applying. If you are unsure, send us the specification code and we will tell you.
 
