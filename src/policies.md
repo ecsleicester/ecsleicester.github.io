@@ -29,7 +29,7 @@ nextprev: |
 Safeguarding is the first responsibility of any school. If you have a concern about a child, contact Andy Harris, Designated Safeguarding Lead, on 0116 222 0792. If a child is at immediate risk, telephone the police on 999.
 
 <div class="docs">
-<a class="doc" href="/assets/policies/safeguarding-and-child-protection-policy.pdf"><div><b>Safeguarding and child protection</b><span>Reviewed September 2025</span></div></a>
+<a class="doc" href="/assets/policies/safeguarding-and-child-protection-policy.pdf"><div><b>Safeguarding and child protection</b><span>Reviewed September 2026 · next due September 2027</span></div></a>
 <a class="doc" href="/assets/policies/low-level-concerns.pdf"><div><b>Low-level concerns</b><span>Reviewed September 2025</span></div></a>
 <a class="doc" href="/assets/policies/allegations-against-staff.pdf"><div><b>Allegations against staff</b><span>Reviewed June 2025</span></div></a>
 <a class="doc" href="/assets/policies/safer-recruitment-policy.pdf"><div><b>Safer recruitment</b><span>Reviewed September 2025</span></div></a>
